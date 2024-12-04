@@ -1,0 +1,70 @@
+Chatbot Test Results
+==================================================
+Test Case 0:
+Query: provide user data
+Result: {'intent': 'information', 'answer': {'preferences': ['AI', 'computer systems', 'neural networks'], 'career_goals': ['expert in neural networks'], 'academic_status': '재학', 'graduation_requirements': {'major_requirements': True, 'core_courses': True, 'total_credits': True}, 'total_credits': 135, 'gpa': 3.44, 'core_courses_completed': {'intro_courses': True, 'mandatory_courses': True}, 'completed_courses': ['미적분학I', '알바트로스세미나', '컴퓨팅사고력(고급)', '자연계글쓰기', '영어글로벌의사소통I', '현대서양의형성', '한국과세계', '성찰과성장', '철학적인간학', '일반물리실험I', '미적분학II', '응용수학I', '선형대수학', '응용수학II', '일반물리I', '기초공학설계', '이산구조', 'C프로그래밍', '컴퓨터공학설계및실험I', '자료구조', '디지털회로개론', '컴퓨터공학실험II', '멀티코어프로그래밍', '운영체제', '캡스톤디자인I(캡스톤디자인)', '문제해결프로그래밍실습', '산학프로젝트(캡스톤디자인)', '컴퓨터시스템개론', '알고리즘설계와분석', '컴퓨터아키텍쳐', '데이터베이스시스템', '소프트웨어공학', '기초컴퓨터그래픽스', '컴퓨터네트워크', '해킹및정보보안', '기초인공지능', '기초컴파일러구성', '임베디드컴퓨터구조', '프로그래밍언어', '임베디드시스템소프트웨어', '암호학기초', '기초머신러닝', '수치컴퓨팅및응용', '컴퓨터비전', '커넥티드플랫폼이론과실제(캡스톤디자인)', '비평적글쓰기연습', '정수론']}}
+==================================================
+Test Case 1:
+Query: I'm interested in artificial intelligence and machine learning. What courses should I take?
+Result: {'intent': 'recommendation', 'answer': {'recommendations': [{'course_id': 'CSE4200', 'description': 'Recommender systems enable users to make efficient decisions by providing them with personalized and useful information. This course covers basic concepts of ML-based recommender systems, including text, graph, numerical, and categorical data analysis, and models like content-based and collaborative filtering.', 'why': 'This course is ideal for students interested in AI and machine learning as it provides foundational knowledge in building machine learning-based recommender systems, which are a key application of AI.'}, {'course_id': 'CSE4185', 'description': 'Introduction to basic principles, technologies, and applications of artificial intelligence, with a focus on understanding intelligent agent development.', 'why': 'This course provides a comprehensive introduction to AI, which is essential for anyone looking to specialize in artificial intelligence and machine learning.'}, {'course_id': 'CSE4130-02', 'description': 'Study of basic machine learning techniques such as linear regression, dimensionality reduction, density estimation, and classification, along with necessary mathematical foundations.', 'why': 'This course offers foundational machine learning techniques and mathematics, crucial for building a strong base in machine learning.'}]}}
+==================================================
+Test Case 2:
+Query: Are there any advanced courses in computer systems for next semester?
+Result: {'intent': 'recommendation', 'answer': {'recommendations': [{'course_id': 'CSE4010', 'description': "This course covers understanding the overall structure of the system, hardware components, and memory, linked with 'Introduction of Digital Circuit'.", 'why': 'This course is recommended for students looking to deepen their understanding of computer architecture and system design, which are crucial for advanced studies in computer systems.'}, {'course_id': 'CSE4100', 'description': 'Focuses on the basic concepts of system software design and implementation through projects, including process management, exception handling, and network programming.', 'why': 'This course is ideal for students interested in system programming and understanding the internal workings of computer systems, which is essential for advanced computer systems studies.'}]}}
+==================================================
+Test Case 3:
+Query: How many credits do I need to graduate?
+Result: {'intent': 'advice', 'answer': 'You need a total of 130 credits or more to graduate. If you are majoring in Social Sciences, Economics, or Business Administration, you need 126 credits or more.'}
+==================================================
+Test Case 4:
+Query: What is the GPA requirement for a scholarship at Sogang University?
+Result: {'intent': 'advice', 'answer': 'For the Global Scholarship I, international students need a minimum GPA of 2.5 or above. For the Global Scholarship II, a minimum GPA of 2.0 or above is required.'}
+==================================================
+Test Case 5:
+Query: Can you provide information about the visa extension process?
+Result: {'intent': 'advice', 'answer': 'Visa extension applications can be submitted to the local immigration office from 4 months before the expiration date until the expiration date. Required documents include:\n\n- Application form, passport, and alien registration card, fee\n- Certificate of enrollment and transcript\n- Proof of tuition payment\n- Financial proof (e.g., bank balance certificate of at least USD 10,000 equivalent)\n- Proof of residence (e.g., lease contract, dormitory confirmation, accommodation confirmation, residence certificate from a hostel)\n\nIf you need more detailed information, you can contact the Immigration Contact Center at 1345.'}
+==================================================
+Test Case 6:
+Query: What are the required core courses for computer science majors?
+Result: {'intent': 'advice', 'answer': "I don't know. To find the required core courses for computer science majors, please refer to your university's academic catalog or contact your academic advisor for detailed information."}
+==================================================
+Test Case 7:
+Query: What is my current GPA?
+Result: {'intent': 'general', 'answer': "I don't have access to your current GPA. Please check your academic records or contact your academic advisor for that information."}
+==================================================
+Test Case 8:
+Query: Can you list the courses I have already completed?
+Result: {'intent': 'general', 'answer': "I don't have access to your course history. Please check your academic records or student portal for a list of the courses you have completed."}
+==================================================
+Test Case 9:
+Query: Have I completed the required core courses for graduation?
+Result: {'intent': 'advice', 'answer': "I don't know. To verify if you have completed the required core courses for graduation, please check your academic records through the SAINT portal or consult your academic advisor."}
+==================================================
+Test Case 10:
+Query: What are my preferences for future courses?
+Result: {'intent': 'general', 'answer': "I don't have access to your preferences for future courses. Please consider your interests and career goals to determine which courses you would like to take."}
+==================================================
+Test Case 11:
+Query: How do I join a student club at Sogang University?
+Result: {'intent': 'advice', 'answer': 'To join a student club at Sogang University, you can follow these steps:\n\n1. Visit the Sogang University Korean website: [Sogang University Website](http://www.sogang.ac.kr) → "IT서강 ∙ 캠퍼스생활" → "학생활동" → "동아리" to search for clubs.\n\n2. Request each club’s contact and leaflet through the Association of Student Clubs Facebook page: [Association of Student Clubs Facebook](https://www.facebook.com/sogangdongari).\n\n3. Many clubs have their own social media accounts such as Instagram or Facebook. You can search for club information through these platforms.\n\nAdditionally, at the beginning of every semester, clubs set up tables in front of the J Hall area to promote their activities and attract new members. You can visit these tables to learn more and sign up.'}
+==================================================
+Test Case 12:
+Query: What is the difference between CSE4130 and CSE4185?
+Result: {'intent': 'general', 'answer': 'CSE4130 focuses on basic machine learning techniques, covering topics such as linear regression, classification, and dimensionality reduction, along with the necessary mathematical foundations. It is primarily aimed at providing a solid understanding of machine learning concepts and methods.\n\nCSE4185, on the other hand, serves as an introduction to artificial intelligence principles, technologies, and applications. This course emphasizes understanding intelligent agent development and broader AI concepts.\n\nIn summary, CSE4130 is more specialized in machine learning techniques, while CSE4185 provides a broader overview of artificial intelligence.'}
+==================================================
+Test Case 13:
+Query: Can you translate '학생증 발급' into English?
+Result: {'intent': 'general', 'answer': "'학생증 발급' translates to 'Issuance of Student ID' in English."}
+==================================================
+Test Case 14:
+Query: What is the deadline for course registration this semester?
+Result: {'intent': 'advice', 'answer': "I don't know. To find the deadline for course registration this semester, please check the course registration notice on the Sogang University website or contact the registrar's office for the most accurate information."}
+==================================================
+Test Case 15:
+Query: What did I ask about earlier regarding core courses?
+Result: {'intent': 'general', 'answer': 'You asked whether you have completed the required core courses for graduation.'}
+==================================================
+Test Case 16:
+Query: Can you summarize the topics we discussed today?
+Result: {'intent': 'general', 'answer': "Certainly! Here’s a summary of the topics we discussed today:\n\n1. **Courses in AI and Machine Learning**: Recommendations for foundational courses in these fields.\n2. **Advanced Computer Systems Courses**: Suggestions for advanced courses available next semester.\n3. **Graduation Requirements**: Information on the number of credits needed to graduate.\n4. **GPA Requirement for Scholarships**: Minimum GPA needed for scholarships at Sogang University.\n5. **Visa Extension Process**: Steps and documents required for extending a visa.\n6. **Core Courses for Computer Science Majors**: Inquiry about required core courses.\n7. **Joining Student Clubs**: Steps to join student clubs at Sogang University.\n8. **Course Registration Deadline**: Inquiry about the deadline for course registration.\n9. **Translation**: Translation of '학생증 발급' into English.\n10. **Differences Between Courses**: Comparison between CSE4130 and CSE4185.\n\nIf you have any more questions or need further information, feel free to ask!"}
+==================================================

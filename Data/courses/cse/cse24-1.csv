@@ -1,0 +1,42 @@
+department,course_name,time_credit,credit,professor,student_capacity,english_class,chinese_class,need_approval,cu_class,honors_class,engineering_certification,target_academic_year,recommended_academic_year,course_registration_notes,course_description,year,semester,course_code,course_section,timeslot,classroom,extended_syllabus
+컴퓨터공학과,컴퓨터프로그래밍I,3.0,3.0,이주호,83,True,False,False,False,False,False,1,1,,(구)기초공학설계,2024,1학기,CSE2003,1,"화,목 15:00~16:15",D105,True
+컴퓨터공학과,컴퓨터프로그래밍I,3.0,3.0,장부루,67,True,False,False,False,False,False,1,1,,(구)기초공학설계,2024,1학기,CSE2003,2,"화,목 09:00~10:15",D105,True
+컴퓨터공학과,소프트웨어개발도구및환경실습,3.0,6.0,김승욱,27,False,False,False,False,False,False,"2,3,4",2,,구)컴퓨터공학설계및실험I,2024,1학기,CSE3013,1,월 15:00~20:50,R914,True
+컴퓨터공학과,소프트웨어개발도구및환경실습,3.0,6.0,최준석,31,False,False,False,False,False,False,"2,3,4",2,,구)컴퓨터공학설계및실험I,2024,1학기,CSE3013,2,화 15:00~20:50,R914,True
+컴퓨터공학과,소프트웨어개발도구및환경실습,3.0,6.0,이주호,33,False,False,False,False,False,False,"2,3,4",2,,구)컴퓨터공학설계및실험I,2024,1학기,CSE3013,3,수 15:00~20:50,R914,True
+컴퓨터공학과,소프트웨어개발도구및환경실습,3.0,6.0,김세준,30,False,False,False,False,False,False,"2,3,4",2,,구)컴퓨터공학설계및실험I,2024,1학기,CSE3013,4,목 15:00~20:50,R914,True
+컴퓨터공학과,소프트웨어개발도구및환경실습,3.0,6.0,소정민,30,False,False,False,False,False,False,"2,3,4",2,,구)컴퓨터공학설계및실험I,2024,1학기,CSE3013,5,금 15:00~20:50,R914,True
+컴퓨터공학과,컴퓨터공학실험II,3.0,6.0,박성용,12,False,False,False,False,False,False,"2,3,4",2,,,2024,1학기,CSE3016,1,화 15:00~20:50,AS714,True
+컴퓨터공학과,컴퓨터시스템개론,3.0,3.0,문의현,143,True,False,False,False,False,False,"2,3,4",2,,(구)어셈블리프로그래밍,2024,1학기,CSE3030,1,"화,목 09:00~10:15",R404,True
+컴퓨터공학과,컴퓨터시스템개론,3.0,3.0,최재승,111,True,False,False,False,False,False,"2,3,4",2,,(구)어셈블리프로그래밍,2024,1학기,CSE3030,2,"수,금 09:00~10:15",K501,True
+컴퓨터공학과,자료구조,3.0,3.0,양지훈,74,False,False,False,False,False,False,"2,3,4",2,,선수과목 : CSE2035 C프로그래밍(또는 STS2008 고급응용C프로그래밍 또는CSW2010 기초C언어 또는 EEE1002 C언어기초 또는 MEE1005 C프로그래밍기초),2024,1학기,CSE3080,1,"월,수 12:00~13:15",AS414,True
+컴퓨터공학과,자료구조,3.0,3.0,장형수,55,False,False,False,False,False,False,"2,3,4",2,,선수과목 : CSE2035 C프로그래밍(또는 STS2008 고급응용C프로그래밍 또는CSW2010 기초C언어 또는 EEE1002 C언어기초 또는 MEE1005 C프로그래밍기초),2024,1학기,CSE3080,2,"월,수 10:30~11:45",AS301,True
+컴퓨터공학과,자료구조,3.0,3.0,소정민,131,False,False,False,False,False,False,"2,3,4",2,,선수과목 : CSE2035 C프로그래밍(또는 STS2008 고급응용C프로그래밍 또는CSW2010 기초C언어 또는 EEE1002 C언어기초 또는 MEE1005 C프로그래밍기초),2024,1학기,CSE3080,3,"화,목 12:00~13:15",K301,True
+컴퓨터공학과,연구프로젝트Ⅰ,3.0,3.0,최준석,4,False,False,True,False,False,False,,"3,4",,,2024,1학기,CSE3301,1,,,True
+컴퓨터공학과,연구프로젝트Ⅰ,3.0,3.0,김영재,6,False,False,True,False,False,False,,"3,4",,,2024,1학기,CSE3301,3,,,True
+컴퓨터공학과,연구프로젝트Ⅰ,3.0,3.0,이혁준,5,False,False,True,False,False,False,,"3,4",,,2024,1학기,CSE3301,4,,,True
+컴퓨터공학과,연구프로젝트Ⅰ,3.0,3.0,최재승,6,False,False,True,False,False,False,,"3,4",,,2024,1학기,CSE3301,5,,,True
+컴퓨터공학과,컴퓨터아키텍쳐,3.0,3.0,김주호,72,True,False,False,False,False,False,"3,4",3,,"(=전자공학과 컴퓨터아키텍쳐, 둘 중 한과목만 학점인정)(구)컴퓨터구조와논리Ⅰ, 선수과목 : CSE3015 디지털회로개론",2024,1학기,CSE4010,1,"수,금 13:30~14:45",K403,True
+컴퓨터공학과,컴퓨터아키텍쳐,3.0,3.0,이혁준,100,True,False,False,False,False,False,"3,4",3,,"(=전자공학과 컴퓨터아키텍쳐, 둘 중 한과목만 학점인정)(구)컴퓨터구조와논리Ⅰ, 선수과목 : CSE3015 디지털회로개론",2024,1학기,CSE4010,2,"월,수 12:00~13:15",K401,True
+컴퓨터공학과,프로그래밍언어,3.0,3.0,최재승,164,False,False,False,False,False,False,"3,4",3,,선수과목 : CSE3080 자료구조(또는 CSW2030 자료구조입문),2024,1학기,CSE4050,1,"화,목 16:30~17:45",K302,True
+컴퓨터공학과,시스템프로그래밍,3.0,3.0,박성용,90,False,False,False,False,False,False,"3,4",3,,구)멀티코어프로그래밍,2024,1학기,CSE4100,1,"화,목 10:30~11:45",K201,True
+컴퓨터공학과,시스템프로그래밍,3.0,3.0,김영재,97,False,False,False,False,False,False,"3,4",3,,구)멀티코어프로그래밍,2024,1학기,CSE4100,2,"화,목 15:00~16:15",K201,True
+컴퓨터공학과,데이터베이스시스템,3.0,3.0,정성원,114,False,False,False,False,False,False,"3,4",3,,,2024,1학기,CSE4110,1,"월,수 10:30~11:45",K302,True
+컴퓨터공학과,데이터베이스시스템,3.0,3.0,정성원,93,False,False,False,False,False,False,"3,4",3,,,2024,1학기,CSE4110,2,"월,수 16:30~17:45",R404,True
+컴퓨터공학과,소프트웨어공학,3.0,3.0,박수용,80,False,False,False,False,False,False,"3,4","3,4",,,2024,1학기,CSE4115,1,"화,목 10:30~11:45",AS414,True
+컴퓨터공학과,임베디드시스템소프트웨어,3.0,3.0,박성용,24,False,False,False,False,False,False,4,4,,,2024,1학기,CSE4116,1,"화,목 13:30~14:45",R903,True
+컴퓨터공학과,기초머신러닝,3.0,3.0,박운상,68,False,False,False,False,False,False,"3,4","3,4",,,2024,1학기,CSE4130,1,"수,금 09:00~10:15",AS414,True
+컴퓨터공학과,기초머신러닝,3.0,3.0,최준석,76,True,False,False,False,False,False,"3,4","3,4",,,2024,1학기,CSE4130,2,"화,목 09:00~10:15",AS414,True
+컴퓨터공학과,기초컴퓨터그래픽스,3.0,3.0,임인성,91,False,False,False,False,False,False,"3,4","3,4",,선수과목 : STS2005 미적분학I,2024,1학기,CSE4170,1,"화,목 12:00~13:15",R404,True
+컴퓨터공학과,컴퓨터네트워크,3.0,3.0,김승욱,77,False,False,False,False,False,False,"3,4",4,,구)기초컴퓨터네트워크,2024,1학기,CSE4175,1,"수,금 15:00~16:15",K403,True
+컴퓨터공학과,컴퓨터네트워크,3.0,3.0,소정민,136,False,False,False,False,False,False,"3,4",4,,구)기초컴퓨터네트워크,2024,1학기,CSE4175,2,"화,목 15:00~16:15",R404,True
+컴퓨터공학과,캡스톤디자인I(캡스톤디자인),3.0,3.0,정영민,42,False,False,False,False,False,False,"3,4","3,4",,"오픈소스 SW 개발 및 참여, 선수과목 : CSE3080 자료구조(또는 CSW2030 자료구조입문)",2024,1학기,CSE4186,1,월 13:30~16:15,AS412,True
+컴퓨터공학과,캡스톤디자인I(캡스톤디자인),3.0,3.0,정영민,33,False,False,False,False,False,False,"3,4","3,4",,"오픈소스 SW 개발 및 참여, 선수과목 : CSE3080 자료구조(또는 CSW2030 자료구조입문)",2024,1학기,CSE4186,2,금 10:30~13:15,AS301,True
+컴퓨터공학과,산학프로젝트(캡스톤디자인),3.0,3.0,구명완,43,False,False,False,False,False,False,4,4,,구)캡스톤디자인II(캡스톤디자인),2024,1학기,CSE4187,1,월 13:30~16:15,AS414,True
+컴퓨터공학과,암호학기초,3.0,3.0,김세준,37,True,False,False,False,False,False,"3,4",4,,,2024,1학기,CSE4188,1,"수,금 13:30~14:45",AS414,True
+컴퓨터공학과,음성인식,3.0,3.0,김지환,21,False,False,False,False,False,False,"3,4","3,4",,"대학원 초급과목, 구)대화형사용자인터페이스개론",2024,1학기,CSEG311,1,"수,금 15:00~16:15",R903,True
+컴퓨터공학과,데이터마이닝,3.0,3.0,양지훈,12,False,False,False,False,False,False,"3,4",4,,대학원 초급과목,2024,1학기,CSEG312,1,"화,목 12:00~13:15",AS912,True
+컴퓨터공학과,인간언어기술개론,3.0,3.0,장부루,24,False,False,False,False,False,False,"3,4",4,,대학원 초급과목,2024,1학기,CSEG321,1,"월,수 16:30~17:45",AS414,True
+컴퓨터공학과,패턴인식,3.0,3.0,박운상,50,True,False,False,False,False,False,4,4,,,2024,1학기,CSEG416,1,"화,목 13:30~14:45",AS414,True
+컴퓨터공학과,기초 GPU 프로그래밍,3.0,3.0,임인성,31,False,False,False,False,False,False,"3,4","3,4",,구)GPGPU 컴퓨팅,2024,1학기,CSEG483,1,"화,목 16:30~17:45",AS301,True
+컴퓨터공학과,컴퓨터교과교육론,3.0,3.0,김선호,1,False,False,False,False,False,False,all,"3,4",,교직이수자만 전공학점으로 인정,2024,1학기,CSEQ981,1,수 18:00~20:45,J116,True

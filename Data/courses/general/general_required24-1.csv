@@ -1,0 +1,345 @@
+department,course_name,time_credit,credit,professor,student_capacity,english_class,chinese_class,need_approval,cu_class,honors_class,engineering_certification,target_academic_year,recommended_academic_year,course_registration_notes,course_description,year,semester,course_code,course_section,timeslot,classroom,extended_syllabus
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Willers, Arthur Gregory",26,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,1,"월,수 10:30~11:45",J315,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,이주영,26,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,2,"월,수 10:30~11:45",J317,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Willers, Arthur Gregory",26,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,3,"월,수 12:00~13:15",J315,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Bailey, Andrew",26,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,4,"월,수 12:00~13:15",J313,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,이주영,25,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,5,"월,수 12:00~13:15",J317,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,조혜연,25,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,6,"화,목 09:00~10:15",J319,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,조혜연,25,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,7,"화,목 10:30~11:45",J319,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Kim, Jae Pil",26,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,8,"화,목 10:30~11:45",J307,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Bailey, Andrew",27,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,9,"화,목 10:30~11:45",J317,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,정지수,25,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,10,"화,목 10:30~11:45",J325,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Willers, Arthur Gregory",28,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,11,"화,목 12:00~13:15",J315,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,조혜연,25,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,12,"화,목 12:00~13:15",J321,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Barnard,Stephen John",26,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,13,"화,목 12:00~13:15",J323,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Bailey, Andrew",23,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,14,"화,목 12:00~13:15",J317,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Willers, Arthur Gregory",22,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,15,"화,목 13:30~14:45",J315,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Bailey, Andrew",26,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,16,"화,목 13:30~14:45",J207,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Barnard,Stephen John",25,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,17,"화,목 15:00~16:15",X429,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Kim, Jae Pil",25,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,18,"화,목 15:00~16:15",J309,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Thigpen, Byron Douglas",25,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,19,"화,목 13:30~14:45",J209,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Thigpen, Byron Douglas",26,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,20,"화,목 16:30~17:45",J313,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Thigpen, Byron Douglas",26,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,21,"수,금 13:30~14:45",J313,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Barnard,Stephen John",26,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,22,"수,금 13:30~14:45",J319,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Kim, Jae Pil",23,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,23,"수,금 15:00~16:15",J309,False
+전인교육원,영어글로벌의사소통I,3.0,3.0,"Barnard,Stephen John",24,True,False,False,False,False,False,all,1,,"구 영어I, 신입생 대다수의 학생이 대상",2024,1학기,COR1003,24,"수,금 15:00~16:15",J319,False
+전인교육원,영어글로벌의사소통I(고급),3.0,3.0,"Thigpen, Byron Douglas",32,True,False,False,False,False,False,all,1,,구 영어I(고급),2024,1학기,COR1005,1,"화,목 15:00~16:15",J313,False
+전인교육원,영어글로벌의사소통I(고급),3.0,3.0,"Thigpen, Byron Douglas",28,True,False,False,False,False,False,all,1,,구 영어I(고급),2024,1학기,COR1005,2,"수,금 15:00~16:15",J313,False
+전인교육원,성찰과성장,1.0,6.0,"김민호, 김민회",189,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,1,금 18:30~21:10 / 토 10:00~17:40,MA102,False
+전인교육원,성찰과성장,1.0,6.0,"김민회, 김민호",17,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,2,금 18:30~21:10 / 토 10:00~17:40,MA102,False
+전인교육원,성찰과성장,1.0,6.0,"김민회, 김민호",19,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,3,금 18:30~21:10 / 토 10:00~17:40,MA102,False
+전인교육원,성찰과성장,1.0,6.0,"김민회, 김민호",192,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,4,금 18:30~21:10 / 토 10:00~17:40,MA102,False
+전인교육원,성찰과성장,1.0,6.0,"김민회, 김민호",18,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,5,금 18:30~21:10 / 토 10:00~17:40,MA102,False
+전인교육원,성찰과성장,1.0,6.0,"김민호, 김민회",20,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,6,금 18:30~21:10 / 토 10:00~17:40,MA102,False
+전인교육원,성찰과성장,1.0,6.0,"김민호, 최윤희, 김민회",85,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,7,토 09:30~21:30 / 일 09:30~17:30,MA102,False
+전인교육원,성찰과성장,1.0,6.0,"김민회, 김민호, 최윤희",20,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,8,토 09:30~21:30 / 일 09:30~17:30,MA102,False
+전인교육원,성찰과성장,1.0,6.0,"김민호, 최윤희, 김민회",158,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,9,금 18:30~21:10 / 토 10:00~17:40,MA102,False
+전인교육원,성찰과성장,1.0,6.0,"최윤희, 김민호, 김민회",19,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,10,금 18:30~21:10 / 토 10:00~17:40,MA102,False
+전인교육원,성찰과성장,1.0,6.0,"김민회, 김민호, 최윤희",19,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,11,금 18:30~21:10 / 토 10:00~17:40,MA102,False
+전인교육원,성찰과성장,1.0,6.0,"김민회, 김민호, 최윤희",90,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,12,토 09:30~21:30 / 일 09:30~17:30,MA102,False
+전인교육원,성찰과성장,1.0,6.0,"김민호, 최윤희, 김민회",20,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,13,토 09:30~21:30 / 일 09:30~17:30,MA106,False
+전인교육원,성찰과성장,1.0,6.0,"김민회, 김민호, 최윤희",88,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,14,,,False
+전인교육원,성찰과성장,1.0,6.0,"최윤희, 김민호, 김민회",20,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,15,,,False
+전인교육원,성찰과성장,1.0,6.0,"김민호, 최윤희, 김민회",88,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,16,,,False
+전인교육원,성찰과성장,1.0,6.0,"최윤희, 김민호, 김민회",18,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,17,,,False
+전인교육원,성찰과성장,1.0,6.0,"김민호, 최윤희, 김민회",89,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,18,,,False
+전인교육원,성찰과성장,1.0,6.0,"김민회, 김민호, 최윤희",20,False,False,False,False,False,False,all,1,,S/U 과목,2024,1학기,COR1007,19,,,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,문의현,71,False,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,1,"월,수 10:30~11:45",D104B,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,최준석,70,False,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,2,"월,수 12:00~13:15",D104B,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,장나은,79,False,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,3,"월,수 16:30~17:45",D105,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,권미수,73,False,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,4,금 10:30~13:15,D105,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,나미향,70,False,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,5,"화,목 10:30~11:45",D105,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,강은숙,75,False,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,6,"화,목 12:00~13:15",D104B,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,서용덕,70,True,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,7,"화,목 13:30~14:45",D104B,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,서경희,72,False,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,8,"화,목 12:00~13:15",D105,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,나미향,65,False,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,9,"화,목 13:30~14:45",D105,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,권미수,67,False,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,10,"화,목 16:30~17:45",D104B,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,권미수,60,False,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,11,"수,금 15:00~16:15",D104B,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,장나은,77,False,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,12,"수,금 15:00~16:15",D105,False
+전인교육원,기초인공지능프로그래밍,3.0,3.0,김선호,71,False,False,False,False,False,False,all,1,,컴퓨팅사고력(COR1009) 대체과목,2024,1학기,COR1010,13,"화,목 15:00~16:15",D104B,False
+전인교육원,인문사회글쓰기,3.0,3.0,이상헌,28,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,1,"월,수 10:30~11:45",J217,False
+전인교육원,인문사회글쓰기,3.0,3.0,송혜란,28,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,2,"월,수 12:00~13:15",J219,False
+전인교육원,인문사회글쓰기,3.0,3.0,이상헌,28,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,3,"월,수 16:30~17:45",J104,False
+전인교육원,인문사회글쓰기,3.0,3.0,박숙자,28,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,4,"화,목 10:30~11:45",J106,False
+전인교육원,인문사회글쓰기,3.0,3.0,박숙자,28,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,5,"화,목 12:00~13:15",J106,False
+전인교육원,인문사회글쓰기,3.0,3.0,이유진,29,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,6,"화,목 13:30~14:45",J215,False
+전인교육원,인문사회글쓰기,3.0,3.0,박숙자,30,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,7,"화,목 15:00~16:15",J106,False
+전인교육원,인문사회글쓰기,3.0,3.0,박숙자,29,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,8,"화,목 16:30~17:45",J106,False
+전인교육원,인문사회글쓰기,3.0,3.0,엄미옥,31,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,9,"수,금 13:30~14:45",J219,False
+전인교육원,인문사회글쓰기,3.0,3.0,장서란,29,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,10,"월,수 16:30~17:45",J108,False
+전인교육원,인문사회글쓰기,3.0,3.0,허재홍,30,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,11,"수,금 15:00~16:15",J108,False
+전인교육원,인문사회글쓰기,3.0,3.0,엄미옥,31,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,12,"수,금 15:00~16:15",J106,False
+전인교육원,인문사회글쓰기,3.0,3.0,이해진,30,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,13,"월,수 10:30~11:45",J207,False
+전인교육원,인문사회글쓰기,3.0,3.0,이해진,31,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,14,"월,수 12:00~13:15",J215,False
+전인교육원,인문사회글쓰기,3.0,3.0,심진경,30,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,15,"화,목 10:30~11:45",J104,False
+전인교육원,인문사회글쓰기,3.0,3.0,심진경,29,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,16,"화,목 12:00~13:15",J104,False
+전인교육원,인문사회글쓰기,3.0,3.0,이소연,29,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1012,17,"화,목 15:00~16:15",J204,False
+전인교육원,자연계글쓰기,3.0,3.0,송혜란,25,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1013,1,"월,수 10:30~11:45",J215,False
+전인교육원,자연계글쓰기,3.0,3.0,백진우,27,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1013,2,"월,수 12:00~13:15",J207,False
+전인교육원,자연계글쓰기,3.0,3.0,이상헌,25,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1013,3,"화,목 10:30~11:45",J217,False
+전인교육원,자연계글쓰기,3.0,3.0,허재홍,28,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1013,4,"월,수 12:00~13:15",K507,False
+전인교육원,자연계글쓰기,3.0,3.0,이유진,24,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1013,5,"화,목 16:30~17:45",J217,False
+전인교육원,자연계글쓰기,3.0,3.0,이유진,26,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1013,6,"화,목 15:00~16:15",J207,False
+전인교육원,자연계글쓰기,3.0,3.0,이상헌,28,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1013,7,"화,목 15:00~16:15",J209,False
+전인교육원,자연계글쓰기,3.0,3.0,이소연,27,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1013,8,"화,목 16:30~17:45",J104,False
+전인교육원,자연계글쓰기,3.0,3.0,권미란,28,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1013,9,"수,금 13:30~14:45",J215,False
+전인교육원,자연계글쓰기,3.0,3.0,장서란,28,False,False,False,False,False,False,all,1,,읽기와쓰기(COR1001)의 대체과목,2024,1학기,COR1013,10,"월,수 12:00~13:15",J325,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,강리브가,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,1,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,강세원,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,2,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,강평경,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,3,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,김명석,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,4,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,김민,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,5,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,김민균,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,6,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,김범수,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,7,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,김양민,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,8,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,김용진,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,9,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,김유진,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,10,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,김진화,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,11,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,박두리,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,12,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,변상혁,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,13,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,서정일,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,14,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,안성필,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,15,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,양동훈,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,16,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,양준선,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,17,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,오혜림,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,18,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,원재환,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,19,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,이강표,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,20,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,이군희,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,21,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,이상호,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,22,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,이영주,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,23,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,이윤동,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,24,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,이인석,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,25,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,이준겸,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,26,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,장영균,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,27,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,전성률,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,28,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,정선욱,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,29,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,정재학,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,30,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,조봉순,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,31,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,조성빈,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,32,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,최장호,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,33,,,False
+전인교육원,알바트로스세미나(경영),1.0,1.0,홍광헌,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1016,34,,,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,"박슬기, 이지영",16,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,1,수 18:00~18:50,J107,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,"백진우, 황윤정",15,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,2,수 18:00~18:50,J202,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,"이정훈, 황화상",15,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,3,수 18:00~18:50,J211,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,전인갑,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,7,수 18:00~18:50,J311,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,정면,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,8,수 18:00~18:50,K404,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,정일영,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,9,수 18:00~18:50,K405,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,조범환,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,10,수 18:00~18:50,K504,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,조은성,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,11,수 18:00~18:50,K507,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,"Kim, Halla, 이상섭",14,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,12,수 18:00~18:50,J219,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,김준걸,14,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,13,수 18:00~18:50,X428,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,정재현,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,14,수 18:00~18:50,X429,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,박병관,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,16,수 18:00~18:50,J209,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,정소이,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,17,수 18:00~18:50,X430,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,Barrie Michael Jonathan Mathew,18,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,18,수 18:00~18:50,J104,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,BonfiglioRichardPaul,18,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,19,수 18:00~18:50,J106,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,김영주,17,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,20,수 18:00~18:50,J108,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,김치헌,18,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,21,수 18:00~18:50,J204,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,노재호,17,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,22,수 18:00~18:50,J207,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,황은주,15,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,24,수 18:00~18:50,J118,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,권현정,17,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,28,화 18:00~18:50,J307,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,"김연신, 김형민",17,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,29,수 18:00~18:50,J307,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,"김지현, 박정섭, 전종호",17,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,30,수 18:00~18:50,J319,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,"He, Ya Wen, 강병규, 김보경",13,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,34,수 18:00~18:50,J309,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,"류동춘, 이욱연",14,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,37,수 18:00~18:50,J110,False
+전인교육원,알바트로스세미나(인문),1.0,1.0,"이정재, 홍지순",14,False,False,True,False,False,False,,1,,,2024,1학기,COR1017,39,수 18:00~18:50,J120,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,김영수,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,1,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,김우선,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,2,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,김지혜,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,3,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,이재혁,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,4,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,전상진,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,5,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,송병권,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,6,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,조영호,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,7,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,하상응,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,8,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,이근욱,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,9,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,김종철,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,10,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,김근영,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,11,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,김진형,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,12,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,나진경,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,13,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,연규진,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,14,,,False
+전인교육원,알바트로스세미나(사회과학),1.0,1.0,이창환,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1018,15,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,전성훈,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,1,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,김홍균,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,2,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,송의영,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,3,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,남주하,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,4,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,왕규호,6,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,5,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,정재식,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,6,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,이강오,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,7,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,박정수,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,8,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,김도영,6,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,9,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,이영훈,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,10,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,허정,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,11,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,이윤수,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,12,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,주하연,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,13,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,안태현,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,14,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,Iris Haydar Doruk,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,15,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,김윤정,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,16,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,이진권,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,17,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,김영철,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,18,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,정국모,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,19,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,이성원,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,20,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,허준영,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,21,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,김진원,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,22,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,손성빈,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,23,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,김인경,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,24,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,김재호,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,25,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,곽준희,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,26,,,False
+전인교육원,알바트로스세미나(경제),1.0,1.0,백예인,6,False,False,True,False,False,False,,1,,,2024,1학기,COR1019,27,,,False
+전인교육원,알바트로스세미나(로욜라국제),1.0,1.0,김재천,5,False,False,True,False,False,False,,1,,,2024,1학기,COR1020,1,수 18:00~18:50,J317,False
+전인교육원,알바트로스세미나(로욜라국제),1.0,1.0,손대권,4,False,False,True,False,False,False,,1,,,2024,1학기,COR1020,2,수 18:00~18:50,J317,False
+전인교육원,알바트로스세미나(로욜라국제),1.0,1.0,정재욱,4,False,False,True,False,False,False,,1,,,2024,1학기,COR1020,3,수 18:00~18:50,J317,False
+전인교육원,알바트로스세미나(로욜라국제),1.0,1.0,김소연,4,False,False,True,False,False,False,,1,,,2024,1학기,COR1020,4,수 18:00~18:50,J317,False
+전인교육원,알바트로스세미나(로욜라국제),1.0,1.0,서용덕,6,False,False,True,False,False,False,,1,,,2024,1학기,COR1020,5,수 18:00~18:50,X229,False
+전인교육원,알바트로스세미나(로욜라국제),1.0,1.0,장대업,6,False,False,True,False,False,False,,1,,,2024,1학기,COR1020,6,수 18:00~18:50,X229,False
+전인교육원,알바트로스세미나(로욜라국제),1.0,1.0,이현옥,5,False,False,True,False,False,False,,1,,,2024,1학기,COR1020,7,수 18:00~18:50,X229,False
+전인교육원,알바트로스세미나(로욜라국제),1.0,1.0,주세형,4,False,False,True,False,False,False,,1,,,2024,1학기,COR1020,8,수 20:10~21:00,X349,False
+전인교육원,알바트로스세미나(로욜라국제),1.0,1.0,박민신,4,False,False,True,False,False,False,,1,,,2024,1학기,COR1020,9,수 18:00~18:50,X349,False
+전인교육원,알바트로스세미나(로욜라국제),1.0,1.0,조재희,1,False,False,True,False,False,False,,1,,,2024,1학기,COR1020,10,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,김수연,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,1,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,김균,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,2,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,임종섭,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,3,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,서수민,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,4,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,윤각,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,5,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,유현재,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,6,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,정수린,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,7,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,사영준,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,8,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,김정현,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,9,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,현대원,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,10,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,나은영,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,11,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,이수영,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,12,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,"Unger, Michael Anthony",11,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,13,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,조재희,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,14,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,손원정,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,15,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,최용순,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,16,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,김상용,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,17,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,김주섭,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,18,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,오준호,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,19,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,정다샘,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,20,,,False
+전인교육원,알바트로스세미나(지식융합미디어),1.0,1.0,주진호,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1021,21,,,False
+전인교육원,알바트로스세미나(수학),1.0,1.0,김종락,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1022,1,수 18:00~18:50,K303,False
+전인교육원,알바트로스세미나(수학),1.0,1.0,옥지훈,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1022,2,수 18:00~18:50,K303,False
+전인교육원,알바트로스세미나(수학),1.0,1.0,김준태,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1022,3,수 18:00~18:50,K303,False
+전인교육원,알바트로스세미나(수학),1.0,1.0,조창연,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1022,4,수 18:00~18:50,K303,False
+전인교육원,알바트로스세미나(수학),1.0,1.0,김대욱,13,False,False,True,False,False,False,,1,,,2024,1학기,COR1022,5,수 18:00~18:50,K303,False
+전인교육원,알바트로스세미나(물리),1.0,1.0,양상모,15,False,False,True,False,False,False,,1,,,2024,1학기,COR1023,1,수 18:00~18:50,K304,False
+전인교육원,알바트로스세미나(물리),1.0,1.0,장준익,13,False,False,True,False,False,False,,1,,,2024,1학기,COR1023,2,수 18:00~18:50,K304,False
+전인교육원,알바트로스세미나(물리),1.0,1.0,백현준,15,False,False,True,False,False,False,,1,,,2024,1학기,COR1023,3,수 18:00~18:50,K304,False
+전인교육원,알바트로스세미나(물리),1.0,1.0,홍준호,14,False,False,True,False,False,False,,1,,,2024,1학기,COR1023,4,수 18:00~18:50,K304,False
+전인교육원,알바트로스세미나(화학),1.0,2.0,서원석,14,False,False,True,False,False,False,,1,,,2024,1학기,COR1024,1,수 18:00~19:45,K401,False
+전인교육원,알바트로스세미나(화학),1.0,2.0,동방선,15,False,False,True,False,False,False,,1,,,2024,1학기,COR1024,2,수 18:00~19:45,K401,False
+전인교육원,알바트로스세미나(화학),1.0,2.0,박준우,14,False,False,True,False,False,False,,1,,,2024,1학기,COR1024,3,수 18:00~19:45,K401,False
+전인교육원,알바트로스세미나(화학),1.0,2.0,장지현,14,False,False,True,False,False,False,,1,,,2024,1학기,COR1024,4,수 18:00~19:45,K401,False
+전인교육원,알바트로스세미나(생명과학),1.0,2.0,김건수,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1025,1,수 18:00~19:45,K402,False
+전인교육원,알바트로스세미나(생명과학),1.0,2.0,김성룡,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1025,2,수 18:00~19:45,K402,False
+전인교육원,알바트로스세미나(생명과학),1.0,2.0,주봉건,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1025,3,수 18:00~19:45,K402,False
+전인교육원,알바트로스세미나(생명과학),1.0,2.0,김정호,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1025,4,수 18:00~19:45,K402,False
+전인교육원,알바트로스세미나(생명과학),1.0,2.0,김종찬,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1025,5,수 18:00~19:45,K402,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,강석주,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,1,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,김영록,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,2,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,"Kim, Youngwook",10,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,3,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,김홍석,12,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,4,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,남창주,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,5,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,박형민,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,6,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,성원진,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,7,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,소재우,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,8,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,유양모,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,9,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,윤광석,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,10,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,이행선,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,11,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,최용,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,12,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(전자),1.0,1.0,홍성완,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1026,13,월 13:30~14:20,K302,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,오세용,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,1,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,최진훈,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,2,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,강태욱,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,3,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,김충익,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,4,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,하경수,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,5,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,이종석,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,6,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,나정걸,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,7,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,강문성,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,8,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,백서인,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,9,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,김형준,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,10,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,류재건,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,11,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,박제영,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,12,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(화공생명),1.0,1.0,조현석,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1027,13,수 18:00~18:50,R404,False
+전인교육원,알바트로스세미나(기계),1.0,1.0,전도영,6,False,False,True,False,False,False,,1,,,2024,1학기,COR1028,1,수 18:00~18:50,AS510,False
+전인교육원,알바트로스세미나(기계),1.0,1.0,이승엽,6,False,False,True,False,False,False,,1,,,2024,1학기,COR1028,2,수 18:00~18:50,AS510,False
+전인교육원,알바트로스세미나(기계),1.0,1.0,정현용,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1028,3,수 18:00~18:50,AS510,False
+전인교육원,알바트로스세미나(기계),1.0,1.0,박정열,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1028,4,수 18:00~18:50,AS510,False
+전인교육원,알바트로스세미나(기계),1.0,1.0,김동철,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1028,5,수 18:00~18:50,AS510,False
+전인교육원,알바트로스세미나(기계),1.0,1.0,김대중,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1028,6,수 18:00~18:50,AS510,False
+전인교육원,알바트로스세미나(기계),1.0,1.0,신충수,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1028,7,수 18:00~18:50,AS510,False
+전인교육원,알바트로스세미나(기계),1.0,1.0,정봉근,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1028,8,수 18:00~18:50,AS510,False
+전인교육원,알바트로스세미나(기계),1.0,1.0,정석환,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1028,9,수 18:00~18:50,AS510,False
+전인교육원,알바트로스세미나(기계),1.0,1.0,김상엽,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1028,10,수 18:00~18:50,AS510,False
+전인교육원,알바트로스세미나(기계),1.0,1.0,김남근,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1028,11,수 18:00~18:50,AS510,False
+전인교육원,알바트로스세미나(기계),1.0,1.0,박우성,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1028,12,수 18:00~18:50,AS510,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,김주호,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,1,수 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,박수용,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,2,수 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,박성용,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,3,목 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,정성원,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,4,수 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,양지훈,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,5,목 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,장형수,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,6,수 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,김세준,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,7,수 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,김승욱,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,8,수 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,이혁준,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,9,수 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,김영재,8,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,10,수 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,소정민,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,11,수 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,최준석,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,12,수 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,이주호,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,13,월 09:00~09:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,문의현,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,14,수 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(컴퓨터),1.0,1.0,최재승,9,False,False,True,False,False,False,,1,,,2024,1학기,COR1029,15,수 18:00~18:50,RA204,False
+전인교육원,알바트로스세미나(인공지능),1.0,1.0,김지환,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1030,1,수 18:00~18:50,F401,False
+전인교육원,알바트로스세미나(인공지능),1.0,1.0,장부루,10,False,False,True,False,False,False,,1,,,2024,1학기,COR1030,2,수 18:00~18:50,F401,False
+전인교육원,알바트로스세미나(인공지능),1.0,1.0,박운상,11,False,False,True,False,False,False,,1,,,2024,1학기,COR1030,3,수 18:00~18:50,F401,False
+전인교육원,알바트로스세미나(시스템반도체),1.0,1.0,김상완,6,False,False,True,False,False,False,,1,,,2024,1학기,COR1031,1,월 13:30~14:20,K406,False
+전인교육원,알바트로스세미나(시스템반도체),1.0,1.0,김시현,6,False,False,True,False,False,False,,1,,,2024,1학기,COR1031,2,월 13:30~14:20,K406,False
+전인교육원,알바트로스세미나(시스템반도체),1.0,1.0,류성주,6,False,False,True,False,False,False,,1,,,2024,1학기,COR1031,3,월 13:30~14:20,K406,False
+전인교육원,알바트로스세미나(시스템반도체),1.0,1.0,범진욱,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1031,4,월 13:30~14:20,K406,False
+전인교육원,알바트로스세미나(시스템반도체),1.0,1.0,한준규,7,False,False,True,False,False,False,,1,,,2024,1학기,COR1031,5,월 13:30~14:20,K406,False
+전인교육원,한국사회와 한국어,3.0,3.0,이성준,14,False,False,False,False,False,False,all,1,,"구)한국문화의이해,구)한국문화의이해와체험",2024,1학기,KCS1001,1,"월,수 10:30~11:45",J106,False
+전인교육원,한국사회와 한국어,3.0,3.0,고은정,15,False,False,False,False,False,False,all,1,,"구)한국문화의이해,구)한국문화의이해와체험",2024,1학기,KCS1001,2,"월,수 10:30~11:45",J104,False
+전인교육원,한국사회와 한국어,3.0,3.0,이성준,19,False,False,False,False,False,False,all,1,,"구)한국문화의이해,구)한국문화의이해와체험",2024,1학기,KCS1001,3,"월,수 12:00~13:15",J204,False
+전인교육원,한국사회와 한국어,3.0,3.0,고은정,34,False,False,False,False,False,False,all,1,,"구)한국문화의이해,구)한국문화의이해와체험",2024,1학기,KCS1001,4,"월,수 12:00~13:15",J106,False
+전인교육원,한국사회와 한국어,3.0,3.0,오경숙,18,False,False,False,False,False,False,all,1,,"구)한국문화의이해,구)한국문화의이해와체험",2024,1학기,KCS1001,5,"월,수 10:30~11:45",J108,False
+전인교육원,한국사회와 한국어,3.0,3.0,오경숙,22,False,False,False,False,False,False,all,1,,"구)한국문화의이해,구)한국문화의이해와체험",2024,1학기,KCS1001,6,"월,수 12:00~13:15",J108,False
+전인교육원,한국사회와 한국어,3.0,3.0,고은정,6,False,False,False,False,False,False,,1,,"구)한국문화의이해,구)한국문화의이해와체험",2024,1학기,KCS1001,7,"월,수 09:00~10:15",J104,False
+전인교육원,대학생활과 한국어,3.0,3.0,정하라,39,False,False,False,False,False,False,all,1,,"구)대학생활과학문의탐색,구)한국문화의이해와탐색",2024,1학기,KCS1002,1,"월,수 10:30~11:45",J311,False
+전인교육원,대학생활과 한국어,3.0,3.0,정하라,33,False,False,False,False,False,False,all,1,,"구)대학생활과학문의탐색,구)한국문화의이해와탐색",2024,1학기,KCS1002,2,"월,수 12:00~13:15",J209,False
+전인교육원,한국어 의사소통Ⅰ,3.0,3.0,박진혁,18,False,False,False,False,False,False,all,"1,4",,구) COR1014,2024,1학기,KLC1001,1,"화,목 10:30~11:45",J204,False
+전인교육원,한국어 의사소통Ⅰ,3.0,3.0,박진혁,24,False,False,False,False,False,False,all,"1,4",,구) COR1014,2024,1학기,KLC1001,2,"화,목 12:00~13:15",J209,False
+전인교육원,한국어 의사소통Ⅰ,3.0,3.0,한새해,24,False,False,False,False,False,False,all,"1,4",,구) COR1014,2024,1학기,KLC1001,3,"화,목 10:30~11:45",J207,False
+전인교육원,한국어 의사소통Ⅰ,3.0,3.0,한새해,29,False,False,False,False,False,False,all,"1,4",,구) COR1014,2024,1학기,KLC1001,4,"화,목 12:00~13:15",J207,False
+전인교육원,한국어 의사소통Ⅰ,3.0,3.0,오경숙,25,False,False,False,False,False,False,all,"1,4",,구) COR1014,2024,1학기,KLC1001,5,"화,목 10:30~11:45",J108,False
+전인교육원,한국어 의사소통Ⅰ,3.0,3.0,오경숙,24,False,False,False,False,False,False,all,"1,4",,구) COR1014,2024,1학기,KLC1001,6,"화,목 12:00~13:15",J108,False
+전인교육원,한국어 의사소통Ⅰ,3.0,3.0,박진혁,6,False,False,False,False,False,False,,"1,4",,구) COR1014,2024,1학기,KLC1001,7,"화,목 09:00~10:15",J204,False
+전인교육원,학문공동체의 탐색Ⅰ,3.0,3.0,이정화,19,False,False,False,False,False,False,all,"1,4",,구) KSC2001,2024,1학기,KLC1003,1,"화,목 15:00~16:15",J108,False
+전인교육원,학문공동체의 탐색Ⅰ,3.0,3.0,오문경,13,False,False,False,False,False,False,all,"1,4",,구) KSC2001,2024,1학기,KLC1003,2,"화,목 16:30~17:45",J209,False
+전인교육원,학문공동체의 탐색Ⅰ,3.0,3.0,오문경,26,False,False,False,False,False,False,all,"1,4",,구) KSC2001,2024,1학기,KLC1003,3,"화,목 15:00~16:15",J104,False
+전인교육원,학문공동체의 탐색Ⅰ,3.0,3.0,유민애,19,False,False,False,False,False,False,all,"1,4",,구) KSC2001,2024,1학기,KLC1003,4,"수,금 13:30~14:45",J104,False
+전인교육원,학문공동체의 탐색Ⅱ,3.0,3.0,유민애,12,False,False,False,False,False,False,all,"1,4",,구) KSC3001,2024,1학기,KLC1004,1,"수,금 15:00~16:15",J104,False
+전인교육원,K-Culture 프로젝트Ⅰ,2.0,3.0,"고영정, 황경화",30,False,False,False,False,False,False,all,"1,4",,,2024,1학기,KLC1005,1,월 13:30~14:45 / 금 09:00~10:15,J107,False
+전인교육원,K-Culture 프로젝트Ⅰ,2.0,3.0,"고영정, 황경화",28,False,False,False,False,False,False,all,"1,4",,,2024,1학기,KLC1005,2,월 15:00~16:15 / 금 10:30~11:45,J107,False
+전인교육원,글로벌상호멘토링Ⅰ,1.0,2.0,노지혜,59,False,False,False,False,False,False,all,"1,4",,,2024,1학기,KLC1007,1,수 15:00~16:40,J107,False
+전인교육원,글로벌상호멘토링Ⅰ,1.0,2.0,노지혜,60,False,False,False,False,False,False,all,"1,4",,,2024,1학기,KLC1007,2,금 15:00~16:40,J107,False
+전인교육원,독일언어와문화I,3.0,3.0,이민수,28,False,False,False,False,False,False,all,1,,,2024,1학기,LCS2001,1,"월,수 16:30~17:45",J327,False
+전인교육원,독일언어와문화I,3.0,3.0,조한렬,30,False,False,False,False,False,False,all,1,,,2024,1학기,LCS2001,2,"화,목 12:00~13:15",J313,False
+전인교육원,독일언어와문화I,3.0,3.0,조한렬,32,False,False,False,False,False,False,all,1,,,2024,1학기,LCS2001,3,"화,목 15:00~16:15",K306,False
+전인교육원,독일언어와문화I,3.0,3.0,허정화,29,False,False,False,False,False,False,all,1,,,2024,1학기,LCS2001,4,"화,목 16:30~17:45",K307,False
+전인교육원,독일언어와문화I,3.0,3.0,전상집,34,False,False,False,False,False,False,all,1,,,2024,1학기,LCS2001,5,"수,금 15:00~16:15",K405,False
+전인교육원,프랑스언어와문화I,3.0,3.0,전재연,27,False,False,False,False,False,False,all,1,,"전분반초급자전용(비초보자:별도시험응시,수강시불이익부과)",2024,1학기,LCS2003,1,"월,수 10:30~11:45",K504,False
+전인교육원,프랑스언어와문화I,3.0,3.0,임애리,29,False,False,False,False,False,False,all,1,,"전분반초급자전용(비초보자:별도시험응시,수강시불이익부과)",2024,1학기,LCS2003,2,"화,목 12:00~13:15",J309,False
+전인교육원,프랑스언어와문화I,3.0,3.0,임애리,27,False,False,False,False,False,False,all,1,,"전분반초급자전용(비초보자:별도시험응시,수강시불이익부과)",2024,1학기,LCS2003,3,"화,목 13:30~14:45",J202,False
+전인교육원,프랑스언어와문화I,3.0,3.0,김이정,30,False,False,False,False,False,False,all,1,,"전분반초급자전용(비초보자:별도시험응시,수강시불이익부과)",2024,1학기,LCS2003,4,"월,수 12:00~13:15",K502,False
+전인교육원,프랑스언어와문화I,3.0,3.0,유가연,25,False,False,False,False,False,False,all,1,,"전분반초급자전용(비초보자:별도시험응시,수강시불이익부과)",2024,1학기,LCS2003,5,"수,금 13:30~14:45",K404,False
+전인교육원,프랑스언어와문화I,3.0,3.0,유가연,23,False,False,False,False,False,False,all,1,,"전분반초급자전용(비초보자:별도시험응시,수강시불이익부과)",2024,1학기,LCS2003,6,"수,금 15:00~16:15",K404,False
+전인교육원,중국언어와문화I,3.0,3.0,YANG LIU,27,False,False,False,False,False,False,all,1,,"원어민,특기자 수강불가(수강 시 불이익부과)",2024,1학기,LCS2005,1,"월,수 10:30~11:45",K507,False
+전인교육원,중국언어와문화I,3.0,3.0,박지영,29,False,False,False,False,False,False,all,1,,"원어민,특기자 수강불가(수강 시 불이익부과)",2024,1학기,LCS2005,2,"월,수 12:00~13:15",K404,False
+전인교육원,중국언어와문화I,3.0,3.0,이경하,25,False,False,False,False,False,False,all,1,,"원어민,특기자 수강불가(수강 시 불이익부과)",2024,1학기,LCS2005,3,"화,목 09:00~10:15",J219,False
+전인교육원,중국언어와문화I,3.0,3.0,문영희,29,False,False,False,False,False,False,all,1,,"원어민,특기자 수강불가(수강 시 불이익부과)",2024,1학기,LCS2005,4,"화,목 13:30~14:45",K208,False
+전인교육원,일본언어와문화I,3.0,3.0,최은희,25,False,False,False,False,False,False,all,"1,4",,초급일본어I(LCU4053)의 대체과목,2024,1학기,LCS2007,1,"화,목 15:00~16:15",K404,False
+전인교육원,일본언어와문화I,3.0,3.0,허지은,27,False,False,False,False,False,False,all,"1,4",,초급일본어I(LCU4053)의 대체과목,2024,1학기,LCS2007,2,"화,목 10:30~11:45",K404,False
+전인교육원,일본언어와문화I,3.0,3.0,김수경,29,False,False,False,False,False,False,all,"1,4",,초급일본어I(LCU4053)의 대체과목,2024,1학기,LCS2007,3,"수,금 13:30~14:45",J327,False
+전인교육원,일본언어와문화I,3.0,3.0,김선희,29,False,False,False,False,False,False,all,"1,4",,초급일본어I(LCU4053)의 대체과목,2024,1학기,LCS2007,4,"월,수 12:00~13:15",J307,False
+전인교육원,일본언어와문화I,3.0,3.0,김선희,23,False,False,False,False,False,False,all,"1,4",,초급일본어I(LCU4053)의 대체과목,2024,1학기,LCS2007,5,"월,수 16:30~17:45",J602,False
+전인교육원,초급러시아어,3.0,3.0,서승현,58,False,False,False,False,False,False,all,"1,4",,,2024,1학기,LCU4035,1,금 10:30~13:15,J107,False
+전인교육원,초급아랍어,3.0,3.0,김재희,72,False,False,False,False,False,False,all,"1,4",,,2024,1학기,LCU4105,1,"화,목 12:00~13:15",K501,False
+전인교육원,Introduction to Korean Culture,3.0,3.0,강경민,19,True,False,False,False,False,False,all,"1,4",,,2024,1학기,LLA1001,1,"수,금 15:00~16:15",K306,False

@@ -1,0 +1,91 @@
+department,course_name,time_credit,credit,professor,student_capacity,english_class,chinese_class,need_approval,cu_class,honors_class,engineering_certification,target_academic_year,recommended_academic_year,course_registration_notes,course_description,year,semester,course_code,course_section,timeslot,classroom,extended_syllabus
+사학과,현대세계의역사적이해,3.0,3.0,문종현,35,False,False,False,False,False,False,all,"1,2",,,2024,1학기,HIS2002,1,월 13:30~16:15,J219,False
+국어국문학과,문학과문화콘텐츠,3.0,3.0,박미란,35,False,False,False,False,False,False,all,"3,4",,,2024,1학기,KOR4504,1,"수,금 15:00~16:15",J207,False
+기계공학과,공학수학I,3.0,3.0,강성민,44,True,False,False,False,False,False,"2,3,4",2,,기계공학 전공자(복수전공자 포함)만 수강 가능,2024,1학기,MEE2006,1,"화,목 16:30~17:45",AS414,False
+기계공학과,공학수학I,3.0,3.0,김상엽,48,True,False,False,False,False,False,"2,3,4",2,,기계공학 전공자(복수전공자 포함)만 수강 가능,2024,1학기,MEE2006,2,"수,금 13:30~14:45",AS303,False
+기계공학과,기계공학해석,3.0,3.0,박정열,71,True,False,False,False,False,False,"3,4",3,,,2024,1학기,MEE3006,1,"화,목 15:00~16:15",AS303,False
+중국문화학과,기초한문,3.0,3.0,신지영,60,False,False,False,False,False,False,all,"1,2",,,2024,1학기,CHI2003,1,"월,수 12:00~13:15",J309,False
+중국문화학과,"오늘의중국,중국인",3.0,3.0,홍지순,25,True,False,False,False,False,False,all,"1,2",,,2024,1학기,CHI2006,1,"수,금 13:30~14:45",J207,False
+심리학과,일반심리학,3.0,3.0,김근영,139,False,False,False,False,False,False,all,"1,4",,,2024,1학기,PSY2001,1,"화,목 15:00~16:15",DB101,False
+전인교육원,역사란무엇인가,3.0,3.0,최성철,71,False,False,False,False,False,False,all,"1,4",,주의 : 사학과 필수과목(HIS2001)과 다른 과목,2024,1학기,CHS2006,1,금 10:30~13:15,K401,False
+전인교육원,인물로본중국사,3.0,3.0,이미영,74,False,False,False,False,False,False,all,"1,4",,중국문명의역사(CHU4004)의 대체과목,2024,1학기,CHU4005,1,"화,목 13:30~14:45",K202,False
+전인교육원,이주의역사,3.0,3.0,이수정,77,False,False,False,False,False,False,all,"1,4",,,2024,1학기,CHU4018,1,월 13:30~16:15,K401,False
+전인교육원,유라시아의문명과교류,2.0,2.0,전인갑,78,False,False,False,False,False,False,all,"1,4",,,2024,1학기,CHU4020,1,수 15:00~16:40,K401,False
+전인교육원,삶과죽음,3.0,3.0,이솔,75,False,False,False,False,False,False,all,"1,4",,,2024,1학기,ETU4008,1,"화,목 09:00~10:15",J309,False
+전인교육원,영화와철학,3.0,3.0,강선형,76,False,False,False,False,False,False,all,"1,4",,,2024,1학기,ETU4009,1,"화,목 10:30~11:45",K303,False
+전인교육원,한국문화와종교,3.0,3.0,현재우,45,False,False,False,False,False,False,all,"1,4",,,2024,1학기,ETU4010,1,"월,수 10:30~11:45",K403,False
+전인교육원,영성수련,2.0,2.0,이헌준,36,False,False,False,False,False,False,all,"2,4",,(구)영성과기도(HFU4017)의 대체과목/성적평가:S/U,2024,1학기,HFU4014,2,월 13:30~15:20,K404,False
+전인교육원,거꾸로다시그리고치유,3.0,3.0,황정희,66,False,False,False,False,False,False,all,"1,4",,,2024,1학기,HFU4027,1,"화,목 10:30~11:45",K502,False
+전인교육원,운동과건강,2.0,2.0,이유숙,47,False,False,False,False,False,False,all,"1,4",,,2024,1학기,HLU4003,1,화 10:30~12:20,K504,False
+전인교육원,요가,1.0,2.0,허가영,22,False,False,False,False,False,False,all,"1,4",,장소:체육관 방음실(705-8207),2024,1학기,HLU4006,1,,,False
+전인교육원,테니스,1.0,2.0,이문진,26,False,False,False,False,False,False,all,"1,4",,"장소:테니스코트,문의:체육관(705-8207)",2024,1학기,HLU4007,1,,,False
+전인교육원,탁구,1.0,2.0,남기정,32,False,False,False,False,False,False,all,"1,4",,장소:체육관(705-8207),2024,1학기,HLU4008,1,,,False
+전인교육원,농구,1.0,2.0,김소은,23,False,False,False,False,False,False,all,"1,4",,장소:체육관(705-8207),2024,1학기,HLU4011,1,,,False
+전인교육원,축구,1.0,2.0,남기정,25,False,False,False,False,False,False,all,"1,4",,"장소:운동장,문의:체육관(705-8207)",2024,1학기,HLU4013,1,,,False
+전인교육원,골프,1.0,2.0,신은철,28,False,False,False,False,False,False,all,"1,4",,장소:체육관(705-8207),2024,1학기,HLU4015,1,,,False
+전인교육원,춤과풍물,1.0,2.0,강윤선,14,False,False,False,False,False,False,all,"1,4",,체육관 방음실/에어로빅및포크댄스(HLU4010)의 대체과목,2024,1학기,HLU4016,1,,,False
+전인교육원,사회봉사,2.0,2.0,박혜윤,45,False,False,False,False,False,False,all,"1,4",,기초사회봉사(HSS3020)의 대체과목/성적평가:S/U  /2013-1학기부터 2학점과목으로 변경,2024,1학기,HSS3002,1,금 10:30~12:20,MA202,False
+전인교육원,사회봉사,2.0,2.0,서영아,47,True,False,False,False,False,False,all,"1,4",,기초사회봉사(HSS3020)의 대체과목/성적평가:S/U  /2013-1학기부터 2학점과목으로 변경,2024,1학기,HSS3002,2,금 10:30~12:20,MA204,False
+전인교육원,사회봉사,2.0,2.0,최윤희,35,False,False,False,False,False,False,all,"1,4",,기초사회봉사(HSS3020)의 대체과목/성적평가:S/U  /2013-1학기부터 2학점과목으로 변경,2024,1학기,HSS3002,3,수 15:00~16:50,K212,False
+전인교육원,특수교육과장애의이해,3.0,3.0,안영회,21,False,False,False,False,False,False,all,"1,4",,,2024,1학기,HSS3004,1,월 13:30~16:15,MA203,False
+전인교육원,수화의이해,3.0,3.0,김미원,75,False,False,False,False,False,False,all,"1,4",,성적평가:S/U,2024,1학기,HSS3005,1,월 13:30~16:15,J309,False
+전인교육원,영어토론세미나,3.0,3.0,"Willers, Arthur Gregory",32,True,False,False,False,False,False,all,"2,4",,,2024,1학기,HSS3011,1,"화,목 16:30~17:45",J325,False
+전인교육원,진로탐색입문,1.0,1.5,김경아,156,False,False,False,False,False,False,"1,2",,,S/U평가  /구 진로탐색/현대사회와자기계발(SHU4030)의 대체과목,2024,1학기,HSS3016,1,목 15:00~16:15,K302,False
+전인교육원,진로탐색입문,1.0,1.5,김경아,134,False,False,False,False,False,False,"1,2",,,S/U평가  /구 진로탐색/현대사회와자기계발(SHU4030)의 대체과목,2024,1학기,HSS3016,2,목 16:30~17:45,K202,False
+전인교육원,진로탐색입문,1.0,1.5,이강오,173,False,False,False,False,False,False,"1,2",,,S/U평가  /구 진로탐색/현대사회와자기계발(SHU4030)의 대체과목,2024,1학기,HSS3016,3,수 15:00~16:15,K302,False
+전인교육원,학습매니지먼트,1.0,2.0,김혜림,23,False,False,False,False,False,False,all,,,,2024,1학기,HSS3017,1,월 13:30~15:20,K306,False
+전인교육원,세계를간다,2.0,1.5,박혜윤,4,False,False,True,False,False,False,,"1,4",,"수강승인과목(문의:이냐시오:705-8944), S/U평가 과목",2024,1학기,HSS3019,1,,,False
+전인교육원,인간과지성,2.0,2.0,"김지영, 이규성",71,False,False,False,False,False,False,all,"1,4",,과목평가:S/U,2024,1학기,HSS3021,1,월 13:30~15:20,J302,False
+전인교육원,사회참여와성찰,3.0,3.0,"김상용, 박혜윤, 서영아",21,False,False,False,False,False,False,all,"1,4",,"(구)사회참여실천프로젝트, S/U과목",2024,1학기,HSS3023,1,금 15:00~17:45,MA201,False
+전인교육원,진로탐색심화,1.0,1.5,김경아,41,False,False,False,False,False,False,"2,3","2,3",,구 LED3008 진로개발세미나,2024,1학기,HSS3025,1,목 13:30~14:45,K405,False
+전인교육원,도시혁신프로젝트(종합설계),3.0,3.0,최윤희,29,False,False,True,False,False,False,all,"2,4",,,2024,1학기,HSS3031,1,금 13:30~16:15,GA303B,False
+전인교육원,미디어와 한국어 기초,3.0,3.0,Zhao Xin,23,False,False,False,False,False,False,all,"1,4",,구) KSC3004,2024,1학기,KLC1014,1,월 13:30~16:15,K208,False
+전인교육원,한국어 독서와 토론,3.0,3.0,한새해,19,False,False,False,False,False,False,all,"1,4",,구) KSC4006,2024,1학기,KLC1016,1,"화,목 13:30~14:45",J114,False
+전인교육원,한국어 발음 특강,3.0,3.0,유원호,24,False,False,False,False,False,False,all,"1,4",,구) KSC2004,2024,1학기,KLC1017,1,"화,목 13:30~14:45",J204,False
+전인교육원,한국어 프레젠테이션 연습,3.0,3.0,박민신,26,False,False,False,False,False,False,all,"1,4",,구) KSC2003,2024,1학기,KLC1018,1,"수,금 15:00~16:15",J602,False
+전인교육원,한국어작문연습,3.0,3.0,노지혜,25,False,False,False,False,False,False,all,"1,4",,구) KSC2002,2024,1학기,KLC1019,1,"수,금 13:30~14:45",J106,False
+전인교육원,문학과판타지,3.0,3.0,이소연,62,False,False,False,False,False,False,all,"1,4",,,2024,1학기,LAU4006,1,"화,목 10:30~11:45",J102,False
+전인교육원,한국미술의역사와감상,3.0,3.0,강희정,43,False,False,False,False,False,False,all,"1,4",,,2024,1학기,LAU4014,1,"월,수 12:00~13:15",D301,False
+전인교육원,서양음악의역사와감상,3.0,3.0,신혜승,74,False,False,False,False,False,False,all,"1,4",,,2024,1학기,LAU4021,1,금 10:30~13:15,K302,False
+전인교육원,문학예술의심리학,3.0,3.0,김혜미,15,False,False,False,False,False,False,all,"1,4",,(구)예술과자아성장,2024,1학기,LAU4023,1,월 13:30~16:15,J313,False
+전인교육원,세계음악과문화의이해,3.0,3.0,양인정,26,False,False,False,False,False,False,all,"1,4",,,2024,1학기,LAU4029,1,월 13:30~16:15,K405,False
+전인교육원,치유서사창작론,3.0,3.0,김혜미,5,False,False,False,False,False,False,all,"1,4",,,2024,1학기,LAU4045,1,"화,목 12:00~13:15",K306,False
+전인교육원,"K-Art,from Tradition to Contemporary Art",3.0,3.0,장수민,35,True,False,False,False,False,False,all,"1,4",,,2024,1학기,LAU4056,1,"수,금 09:00~10:15",K405,False
+전인교육원,영어쓰기를통한비판적사고,3.0,3.0,"Barnard,Stephen John",23,True,False,False,False,False,False,all,,,"구)중급영어작문,모든 계열, 전학년 수강가능",2024,1학기,LCU4004,1,"화,목 13:30~14:45",X428,False
+전인교육원,정보매체를통한영어,3.0,3.0,"Bailey, Andrew",25,True,False,False,False,False,False,all,"2,4",,"구)인터넷을통한영어연습,모든 계열, 전학년 수강가능",2024,1학기,LCU4005,1,"월,수 10:30~11:45",J313,False
+전인교육원,현대중동이해,3.0,3.0,성일광,19,False,False,False,False,False,False,all,"1,4",,,2024,1학기,LCU4106,1,"월,수 10:30~11:45",J307,False
+전인교육원,튜터링을통한글쓰기능력신장,2.0,3.0,곽상순,36,False,False,False,False,False,False,all,"2,4",,성적평가:S/U,2024,1학기,LCU4107,1,"화,목 13:30~14:45",J217,False
+전인교육원,튜터링을통한글쓰기능력신장,2.0,3.0,곽상순,39,False,False,False,False,False,False,all,"2,4",,성적평가:S/U,2024,1학기,LCU4107,2,"화,목 15:00~16:15",J217,False
+전인교육원,한국어말하기,3.0,3.0,박진혁,24,False,False,False,False,False,False,all,"1,4",,구) KSC3003,2024,1학기,LCU4117,1,"화,목 15:00~16:15",J609,False
+전인교육원,K-pop and Cultural Studies,3.0,3.0,"오세일, 최은진",39,True,False,True,False,False,False,all,"1,4",,국제처 특별수강생 전용 교과목,2024,1학기,LCU4118,1,금 10:30~13:15,K304,False
+전인교육원,Korean Language&Culture-Beginner,3.0,3.0,신승혜,43,True,False,True,False,False,False,all,"1,4",,국제처 특별수강생 전용 교과목,2024,1학기,LCU4119,1,"월,수 16:30~17:45",K503,False
+전인교육원,4차산업혁명시대의 디지털 글쓰기,3.0,3.0,김태원,19,False,False,False,False,False,False,all,"1,4",,성적평가 S/U,2024,1학기,LCU4120,1,"수,금 13:30~14:45",J107,False
+전인교육원,4차산업혁명시대의 디지털 글쓰기,3.0,3.0,김태원,19,False,False,False,False,False,False,all,"1,4",,성적평가 S/U,2024,1학기,LCU4120,2,"수,금 13:30~14:45",J107,False
+전인교육원,4차산업혁명시대의 디지털 글쓰기,3.0,3.0,김태원,19,False,False,False,False,False,False,all,"1,4",,성적평가 S/U,2024,1학기,LCU4120,3,"수,금 13:30~14:45",J107,False
+전인교육원,4차산업혁명시대의 디지털 글쓰기,3.0,3.0,김태원,19,False,False,False,False,False,False,all,"1,4",,성적평가 S/U,2024,1학기,LCU4120,4,"수,금 13:30~14:45",J107,False
+전인교육원,4차산업혁명시대의 디지털 글쓰기,3.0,3.0,김태원,18,False,False,False,False,False,False,all,"1,4",,성적평가 S/U,2024,1학기,LCU4120,5,"수,금 13:30~14:45",J107,False
+전인교육원,자기브랜드리더십,3.0,3.0,윤덕수,19,False,False,False,False,False,False,all,"1,4",,리더십과의사소통(LED3006)의 대체과목,2024,1학기,LED3015,1,금 10:30~13:15,J327,False
+전인교육원,북한의이해와통일후한국,3.0,3.0,정영철,108,False,False,False,False,False,False,all,"1,4",,구 통일과민족의미래의 대체과목/북한의이해(SHU4002)의 대체과목,2024,1학기,SHU4001,1,"화,목 10:30~11:45",K302,False
+전인교육원,동남아시아전통사회의이해,3.0,3.0,김종호,49,False,False,False,False,False,False,all,"1,4",,,2024,1학기,SHU4010,1,"화,목 15:00~16:15",D302,False
+전인교육원,현대사회와복지국가,3.0,3.0,김진욱,68,False,False,False,False,False,False,all,"1,4",,구) SHS2004,2024,1학기,SHU4016,1,"월,수 16:30~17:45",DB102,False
+전인교육원,결혼준비특강,3.0,3.0,김영희,56,False,False,False,False,False,False,all,"1,4",,,2024,1학기,SHU4024,1,"월,수 10:30~11:45",K501,False
+전인교육원,인문지리,3.0,3.0,김소연,29,False,False,False,False,False,False,all,"1,4",,,2024,1학기,SHU4028,1,"화,목 15:00~16:15",K212,False
+전인교육원,국제개발협력의이해,3.0,3.0,한재광,41,False,False,False,False,False,False,all,"1,4",,과목평가:S/U,2024,1학기,SHU4050,1,"화,목 13:30~14:45",J107,False
+전인교육원,공감의시대,2.0,2.0,김상용,22,False,False,False,False,False,False,all,"1,4",,,2024,1학기,SHU4057,1,화 10:30~12:20,K406,False
+전인교육원,4차산업혁명과기업가정신,2.0,2.0,홍철기,177,False,False,False,False,False,False,all,"1,4",,"평가:S/U, 구)인간과기업가정신",2024,1학기,SHU4063,1,수 16:30~18:10,K302,False
+전인교육원,기후변화와사회정의,3.0,3.0,채진해,19,False,False,False,False,False,False,all,"1,4",,,2024,1학기,SHU4074,1,월 13:30~16:15,J315,False
+전인교육원,직장생활과법,3.0,3.0,심재진,142,False,False,False,False,False,False,all,"1,4",,,2024,1학기,SHU4076,1,"화,목 15:00~16:15",J118,False
+전인교육원,인간과 인권Ⅰ,2.0,2.0,이상복,88,False,False,False,False,False,False,all,"1,4",,,2024,1학기,SHU4077,1,금 10:30~12:20,DB102,False
+전인교육원,K-문화와 미디어,3.0,3.0,최은진,57,True,False,False,False,False,False,all,"1,4",,,2024,1학기,SHU4080,1,월 13:30~16:15,J215,False
+전인교육원,법과 금융,3.0,3.0,이상복,113,False,False,False,False,False,False,all,"1,4",,,2024,1학기,SHU4081,1,"월,수 10:30~11:45",DB102,False
+전인교육원,현대사회와 민주주의,3.0,3.0,조영호,20,False,False,False,False,False,False,all,"1,4",,,2024,1학기,SHU4082,1,"화,목 16:30~17:45",D402,False
+전인교육원,창업기회탐색,1.0,1.5,홍철기,15,False,False,False,False,False,False,all,"2,4",,,2024,1학기,SHU4083,1,목 15:00~16:15,J311,False
+융합교육원,고급응용C프로그래밍,3.0,3.0,강은숙,61,False,False,False,False,False,False,all,2,,"(구)C언어[C프로그래밍수강자,컴공1전공수강불가]/STS2007 대체과목",2024,1학기,STS2008,1,"월,수 10:30~11:45",D105,False
+융합교육원,고급응용C프로그래밍,3.0,3.0,나미향,57,False,False,False,False,False,False,all,2,,"(구)C언어[C프로그래밍수강자,컴공1전공수강불가]/STS2007 대체과목",2024,1학기,STS2008,2,월 13:30~16:15,D105,False
+융합교육원,고급응용C프로그래밍,3.0,3.0,강은숙,61,False,False,False,False,False,False,all,2,,"(구)C언어[C프로그래밍수강자,컴공1전공수강불가]/STS2007 대체과목",2024,1학기,STS2008,3,"화,목 10:30~11:45",D104B,False
+융합교육원,AI융합캡스톤디자인과 창업,3.0,3.0,하정욱,48,False,False,False,False,False,False,"2,3,4","3,4",,인공지능종합설계Ⅰ-캡스톤디자인(AIC4010)의 대체과목,2024,1학기,STS2013,1,"월,수 10:30~11:45",K304,False
+전인교육원,바다의이해,3.0,3.0,이은일,69,False,False,False,False,False,False,all,"1,4",,,2024,1학기,STU4005,1,월 13:30~16:15,K502,False
+전인교육원,건강과한의학,3.0,3.0,황만기,75,False,False,False,False,False,False,all,"1,4",,,2024,1학기,STU4010,1,금 10:30~13:15,K403,False
+전인교육원,비평적글쓰기연습,3.0,3.0,권미란,29,False,False,False,False,False,False,all,"1,4",,계열별글쓰기(COR1002)의 대체과목,2024,1학기,TLS1002,1,"수,금 15:00~16:15",J217,False
+스포츠미디어 연계전공,필드골프I,2.0,3.0,최대혁,29,False,False,False,False,False,False,all,"1,4",,장소:체육관(705-8207),2024,1학기,SPM3104,1,,,False
+유럽문화학과,독일문화의이해,3.0,3.0,김형민,19,False,False,False,False,False,False,all,"1,4",,(구)GER3039,2024,1학기,EUR2239,1,"화,목 09:00~10:15",J202,False

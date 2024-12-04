@@ -1,0 +1,67 @@
+department,course_name,time_credit,credit,professor,student_capacity,english_class,chinese_class,need_approval,cu_class,honors_class,engineering_certification,target_academic_year,recommended_academic_year,course_registration_notes,course_description,year,semester,course_code,course_section,timeslot,classroom,extended_syllabus
+전인교육원,현대한국의형성,3.0,3.0,김가람,56,False,False,False,False,False,False,all,"1,2",,,2024,2학기,CHS2002,1,"월,수 10:30~11:45",K404,False
+전인교육원,현대한국의형성,3.0,3.0,서진교,78,False,False,False,False,False,False,all,"1,2",,,2024,2학기,CHS2002,2,"월,수 12:00~13:15",K302,False
+전인교육원,현대한국의형성,3.0,3.0,장종진,74,False,False,False,False,False,False,all,"1,2",,,2024,2학기,CHS2002,3,"화,목 09:00~10:15",K402,False
+전인교육원,현대한국의형성,3.0,3.0,박주영,17,False,False,False,False,False,False,all,"1,2",,,2024,2학기,CHS2002,4,"수,금 15:00~16:15",K405,False
+전인교육원,현대동아시아의형성,3.0,3.0,방향숙,79,False,False,False,False,False,False,all,"1,2",,,2024,2학기,CHS2003,1,"화,목 12:00~13:15",K302,False
+전인교육원,현대동아시아의형성,3.0,3.0,이지영,28,False,False,False,False,False,False,all,"1,2",,,2024,2학기,CHS2003,2,"월,수 16:30~17:45",K305,False
+전인교육원,현대서양의형성,3.0,3.0,강정석,76,False,False,False,False,False,False,all,"1,2",,근대시민사회의형성(SHU4017)의 대체과목/영미문화의이해(LCU4010)의 대체과목,2024,2학기,CHS2004,1,월 13:30~16:15,K201,False
+전인교육원,현대서양의형성,3.0,3.0,박현숙,10,False,False,False,False,False,False,all,"1,2",,근대시민사회의형성(SHU4017)의 대체과목/영미문화의이해(LCU4010)의 대체과목,2024,2학기,CHS2004,2,"화,목 13:30~14:45",J219,False
+전인교육원,현대세계와윤리문제,3.0,3.0,하유진,33,False,False,False,False,False,False,all,"1,4",,구 윤리와가치,2024,2학기,ETS2001,1,금 10:30~13:15,K405,False
+전인교육원,현대세계와윤리문제,3.0,3.0,이임찬,21,False,False,False,False,False,False,all,"1,4",,구 윤리와가치,2024,2학기,ETS2001,2,월 13:30~16:15,K309,False
+전인교육원,논리와비판적사고,3.0,3.0,서상복,60,False,False,False,False,False,False,all,"1,4",,,2024,2학기,ETS2002,1,"월,수 12:00~13:15",K203,False
+전인교육원,논리와비판적사고,3.0,3.0,구익희,77,False,False,False,False,False,False,all,"1,4",,,2024,2학기,ETS2002,3,"화,목 15:00~16:15",K201,False
+전인교육원,논리와비판적사고,3.0,3.0,구익희,76,False,False,False,False,False,False,all,"1,4",,,2024,2학기,ETS2002,4,월 13:30~16:15,K203,False
+전인교육원,종교와세계문화,3.0,3.0,구은희,25,False,False,False,False,False,False,all,"1,4",,,2024,2학기,ETS2004,2,금 10:30~13:15,K203,False
+전인교육원,종교와세계문화,3.0,3.0,박현준,81,False,False,False,False,False,False,all,"1,4",,,2024,2학기,ETS2004,3,"월,수 12:00~13:15",K403,False
+전인교육원,종교와세계문화,3.0,3.0,노명수,11,False,False,False,False,False,False,all,"1,4",,,2024,2학기,ETS2004,4,"수,금 09:00~10:15",J104,False
+전인교육원,철학적인간학,3.0,3.0,이종진,18,False,False,False,False,False,False,all,2,,인간과세계에대한관상(스탈링스)(SHU4055)의 대체과목,2024,2학기,HFS2001,1,"수,금 09:00~10:15",K203,False
+전인교육원,철학적인간학,3.0,3.0,김선영,68,False,False,False,False,False,False,all,2,,인간과세계에대한관상(스탈링스)(SHU4055)의 대체과목,2024,2학기,HFS2001,2,"화,목 15:00~16:15",K402,False
+전인교육원,철학적인간학,3.0,3.0,김선영,67,False,False,False,False,False,False,all,2,,인간과세계에대한관상(스탈링스)(SHU4055)의 대체과목,2024,2학기,HFS2001,3,"화,목 16:30~17:45",K402,False
+전인교육원,철학적인간학,3.0,3.0,황정희,82,False,False,False,False,False,False,all,2,,인간과세계에대한관상(스탈링스)(SHU4055)의 대체과목,2024,2학기,HFS2001,5,"화,목 13:30~14:45",K302,False
+전인교육원,신학적인간학,3.0,3.0,최현순,58,False,False,False,False,False,False,all,2,,신의문제(HFS2005)의 대체과목/그리스도교사상(HFS2004)의 대체과목,2024,2학기,HFS2002,1,"월,수 16:30~17:45",K301,False
+전인교육원,신학적인간학,3.0,3.0,유정원,66,False,False,False,False,False,False,all,2,,신의문제(HFS2005)의 대체과목/그리스도교사상(HFS2004)의 대체과목,2024,2학기,HFS2002,3,"화,목 15:00~16:15",K501,False
+전인교육원,신학적인간학,3.0,3.0,김수정,69,False,False,False,False,False,False,all,2,,신의문제(HFS2005)의 대체과목/그리스도교사상(HFS2004)의 대체과목,2024,2학기,HFS2002,4,"화,목 15:00~16:15",K503,False
+전인교육원,신학적인간학,3.0,3.0,이진옥,35,False,False,False,False,False,False,all,2,,신의문제(HFS2005)의 대체과목/그리스도교사상(HFS2004)의 대체과목,2024,2학기,HFS2002,5,"월,수 10:30~11:45",K405,False
+전인교육원,그리스도교윤리,3.0,3.0,이헌준,40,False,False,False,False,False,False,all,2,,,2024,2학기,HFS2003,1,"수,금 09:00~10:15",K304,False
+전인교육원,그리스도교윤리,3.0,3.0,유정원,70,False,False,False,False,False,False,all,2,,,2024,2학기,HFS2003,2,"화,목 12:00~13:15",J102,False
+전인교육원,그리스도교윤리,3.0,3.0,최현순,63,False,False,False,False,False,False,all,2,,,2024,2학기,HFS2003,3,"화,목 16:30~17:45",K301,False
+전인교육원,그리스도교신앙과영성,3.0,3.0,여명모,27,False,False,False,False,False,False,all,"1,4",,그리스도교개론(HFU4002)의 대체과목,2024,2학기,HFU4012,1,"수,금 13:30~14:45",K212,False
+전인교육원,진·선·미·성,3.0,3.0,이종진,20,False,False,False,False,False,False,all,"2,4",,사유와삶의기술(스탈링스)(SHU4056)의 대체과목,2024,2학기,HFU4023,1,"수,금 15:00~16:15",K307,False
+전인교육원,진·선·미·성,3.0,3.0,최현순,70,False,False,False,False,False,False,all,"2,4",,사유와삶의기술(스탈링스)(SHU4056)의 대체과목,2024,2학기,HFU4023,2,"화,목 13:30~14:45",K501,False
+전인교육원,한국사회와 한국어,3.0,3.0,고은정,15,False,False,False,False,False,False,all,1,,"구)한국문화의이해,구)한국문화의이해와체험",2024,2학기,KCS1001,1,"월,수 10:30~11:45",K208,False
+전인교육원,한국사회와 한국어,3.0,3.0,고은정,22,False,False,False,False,False,False,all,1,,"구)한국문화의이해,구)한국문화의이해와체험",2024,2학기,KCS1001,2,"월,수 12:00~13:15",K208,False
+전인교육원,한국사회와 한국어,3.0,3.0,노지혜,21,False,False,False,False,False,False,all,1,,"구)한국문화의이해,구)한국문화의이해와체험",2024,2학기,KCS1001,3,"수,금 12:00~13:15",J609,False
+전인교육원,한국사회와 한국어,3.0,3.0,오경숙,27,False,False,False,False,False,False,all,1,,"구)한국문화의이해,구)한국문화의이해와체험",2024,2학기,KCS1001,4,"월,수 10:30~11:45",J325,False
+전인교육원,한국사회와 한국어,3.0,3.0,오경숙,24,False,False,False,False,False,False,all,1,,"구)한국문화의이해,구)한국문화의이해와체험",2024,2학기,KCS1001,5,"월,수 12:00~13:15",J325,False
+전인교육원,대학생활과 한국어,3.0,3.0,유민애,17,False,False,False,False,False,False,all,1,,"구)대학생활과학문의탐색,구)한국문화의이해와탐색",2024,2학기,KCS1002,1,"월,수 10:30~11:45",D502,False
+전인교육원,대학생활과 한국어,3.0,3.0,유민애,25,False,False,False,False,False,False,all,1,,"구)대학생활과학문의탐색,구)한국문화의이해와탐색",2024,2학기,KCS1002,2,"월,수 12:00~13:15",D502,False
+전인교육원,대학생활과 한국어,3.0,3.0,정하라,25,False,False,False,False,False,False,all,1,,"구)대학생활과학문의탐색,구)한국문화의이해와탐색",2024,2학기,KCS1002,3,"월,수 10:30~11:45",D304,False
+전인교육원,대학생활과 한국어,3.0,3.0,정하라,28,False,False,False,False,False,False,all,1,,"구)대학생활과학문의탐색,구)한국문화의이해와탐색",2024,2학기,KCS1002,4,"월,수 12:00~13:15",D304,False
+전인교육원,대학생활과 한국어,3.0,3.0,박진혁,26,False,False,False,False,False,False,all,1,,"구)대학생활과학문의탐색,구)한국문화의이해와탐색",2024,2학기,KCS1002,5,월 13:30~16:15,J106,False
+전인교육원,대학생활과 한국어,3.0,3.0,한새해,23,False,False,False,False,False,False,all,1,,"구)대학생활과학문의탐색,구)한국문화의이해와탐색",2024,2학기,KCS1002,6,월 13:30~16:15,J104,False
+전인교육원,Global History,3.0,3.0,현시내,48,True,False,False,False,False,False,all,"1,4",,,2024,2학기,LLA1020,1,"화,목 15:00~16:15",K305,False
+전인교육원,Understanding Euro MENA,3.0,3.0,박현도,25,True,False,False,False,False,False,all,"1,4",,,2024,2학기,LLA1021,1,"화,목 10:30~11:45",J108,False
+전인교육원,현대사회의이해,3.0,3.0,민병교,109,False,False,False,False,False,False,all,"1,2",,,2024,2학기,SHS2001,2,"화,목 13:30~14:45",DB101,False
+전인교육원,한국과세계,3.0,3.0,서복경,77,False,False,False,False,False,False,all,1,,,2024,2학기,SHS2002,1,"수,금 09:00~10:15",J102,False
+전인교육원,한국과세계,3.0,3.0,이지호,86,False,False,False,False,False,False,all,1,,,2024,2학기,SHS2002,2,"화,목 15:00~16:15",K301,False
+전인교육원,한국과세계,3.0,3.0,한영빈,87,False,False,False,False,False,False,all,1,,,2024,2학기,SHS2002,3,"화,목 10:30~11:45",K201,False
+전인교육원,한국과세계,3.0,3.0,오세제,51,False,False,False,False,False,False,all,1,,,2024,2학기,SHS2002,4,"월,수 10:30~11:45",K502,False
+전인교육원,커뮤니케이션과사회,3.0,3.0,신의경,68,False,False,False,False,False,False,all,"1,4",,,2024,2학기,SHS2003,1,"화,목 15:00~16:15",K502,False
+전인교육원,법과지식재산,3.0,3.0,권세진,90,False,False,False,False,False,False,all,"1,2",,"(구)법과공학, 법과지식산업",2024,2학기,SHS2005,2,"월,수 10:30~11:45",J102,False
+전인교육원,법과지식재산,3.0,3.0,권세진,92,False,False,False,False,False,False,all,"1,2",,"(구)법과공학, 법과지식산업",2024,2학기,SHS2005,3,"월,수 12:00~13:15",J102,False
+전인교육원,법과지식재산,3.0,3.0,강기봉,93,False,False,False,False,False,False,all,"1,2",,"(구)법과공학, 법과지식산업",2024,2학기,SHS2005,4,"화,목 13:30~14:45",DB102,False
+전인교육원,법과지식재산,3.0,3.0,강기봉,91,False,False,False,False,False,False,all,"1,2",,"(구)법과공학, 법과지식산업",2024,2학기,SHS2005,5,"화,목 15:00~16:15",DB102,False
+전인교육원,생활속의심리학,3.0,3.0,김하정,82,False,False,False,False,False,False,all,"1,4",,,2024,2학기,SHS2007,2,"월,수 10:30~11:45",K203,False
+전인교육원,생활속의심리학,3.0,3.0,윤성근,69,False,False,False,False,False,False,all,"1,4",,,2024,2학기,SHS2007,3,"화,목 10:30~11:45",K503,False
+전인교육원,한국의 경제 발전,3.0,3.0,정다훈,23,False,False,False,False,False,False,all,"1,4",,구) KSC4008,2024,2학기,SHS2010,1,"월,수 12:00~13:15",K304,False
+전인교육원,생명과환경,3.0,3.0,김건수,91,False,False,False,False,False,False,all,1,,"자연과학부,공학부 수강불가/STU4006 자연재해와우리사회 대체과목",2024,2학기,STS2002,1,"화,목 13:30~14:45",K403,False
+전인교육원,생명과환경,3.0,3.0,한징택,20,False,False,False,False,False,False,all,1,,"자연과학부,공학부 수강불가/STU4006 자연재해와우리사회 대체과목",2024,2학기,STS2002,2,"수,금 13:30~14:45",K203,False
+전인교육원,생명과환경,3.0,3.0,허진영,64,False,False,False,False,False,False,all,1,,"자연과학부,공학부 수강불가/STU4006 자연재해와우리사회 대체과목",2024,2학기,STS2002,3,"수,금 15:00~16:15",K203,False
+전인교육원,미적분학I,3.0,3.0,정순영,67,False,False,False,False,False,False,all,1,,,2024,2학기,STS2005,1,"화,목 13:30~14:45",K303,False
+전인교육원,과학사,3.0,3.0,이정희,63,False,False,False,False,False,False,all,"1,2",,,2024,2학기,STS2010,1,금 10:30~13:15,K301,False
+전인교육원,과학사,3.0,3.0,구재령,89,True,False,False,False,False,False,all,"1,2",,,2024,2학기,STS2010,2,월 13:30~16:15,K501,False
+전인교육원,기초빅데이터프로그래밍,3.0,3.0,서경희,34,False,False,False,False,False,False,all,"2,4",,파이썬 고급과정(구 기초응용소프트웨어프로그래밍),2024,2학기,STS2011,1,"화,목 12:00~13:15",MA406,False
+전인교육원,기초빅데이터프로그래밍,3.0,3.0,서경희,13,False,False,False,False,False,False,all,"2,4",,파이썬 고급과정(구 기초응용소프트웨어프로그래밍),2024,2학기,STS2011,2,"수,금 15:00~16:15",MA406,False
+전인교육원,딥러닝기반빅데이터처리실습,3.0,3.0,"Sutherland,Ian",21,True,False,False,False,False,False,all,"2,4",,,2024,2학기,STS2012,1,"월,수 12:00~13:15",D105,False
+전인교육원,우주와원자시대,3.0,3.0,호정원,22,False,False,False,False,False,False,all,"1,4",,,2024,2학기,STU4011,2,"월,수 10:30~11:45",J107,False

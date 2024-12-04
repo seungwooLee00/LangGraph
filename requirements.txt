@@ -1,0 +1,10 @@
+langchain
+langchain_openai
+langchain_chroma
+langchain_community
+langgraph
+portkey_ai
+Markdown
+pdfplumber
+unstructured
+typing_extensions

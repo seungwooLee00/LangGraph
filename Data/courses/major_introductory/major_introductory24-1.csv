@@ -1,0 +1,160 @@
+department,course_name,time_credit,credit,professor,student_capacity,english_class,chinese_class,need_approval,cu_class,honors_class,engineering_certification,target_academic_year,recommended_academic_year,course_registration_notes,course_description,year,semester,course_code,course_section,timeslot,classroom,extended_syllabus
+수학과,미적분학실습I,1.0,2.0,임경수,27,False,False,False,False,False,False,all,1,,,2024,1학기,MAT1050,1,월 13:30~15:10,RA205,False
+수학과,미적분학실습I,1.0,2.0,임경수,18,False,False,False,False,False,False,all,1,,,2024,1학기,MAT1050,2,월 15:30~17:10,RA205,False
+수학과,미적분학실습I,1.0,2.0,임경수,26,False,False,False,False,False,False,all,1,,,2024,1학기,MAT1050,3,수 13:30~15:10,RA205,False
+수학과,미적분학실습I,1.0,2.0,임경수,21,False,False,False,False,False,False,all,1,,,2024,1학기,MAT1050,4,수 15:30~17:10,RA205,False
+수학과,집합론,3.0,3.0,신창언,44,False,False,False,False,False,False,all,2,,,2024,1학기,MAT2010,1,"화,목 10:30~11:45",RA406B,False
+수학과,선형대수학,3.0,3.0,조상현,46,False,False,False,False,False,False,all,2,,,2024,1학기,MAT2110,1,"화,목 09:00~10:15",RA310,False
+수학과,선형대수학,3.0,3.0,조장현,62,False,False,False,False,False,False,all,2,,,2024,1학기,MAT2110,2,"월,수 12:00~13:15",K203,False
+수학과,선형대수학,3.0,3.0,이영란,68,False,False,False,False,False,False,all,2,,,2024,1학기,MAT2110,3,"화,목 15:00~16:15",RA310,False
+수학과,선형대수학,3.0,3.0,김대욱,75,True,False,False,False,False,False,all,2,,,2024,1학기,MAT2110,4,"화,목 13:30~14:45",RA308,False
+수학과,선형대수학,3.0,3.0,김준태,47,True,False,False,False,False,False,all,2,,,2024,1학기,MAT2110,5,"수,금 15:00~16:15",K303,False
+수학과,선형대수학,3.0,3.0,조성희,26,False,False,False,False,False,False,all,2,,,2024,1학기,MAT2110,6,"화,목 13:30~14:45",K504,False
+수학과,응용수학I,3.0,3.0,이영록,78,False,False,False,False,False,False,all,2,,통계학입문(MAT3020)과 동등한 과목,2024,1학기,MAT2410,1,"수,금 09:00~10:15",K201,False
+수학과,응용수학I,3.0,3.0,임경필,60,False,False,False,False,False,False,all,2,,통계학입문(MAT3020)과 동등한 과목,2024,1학기,MAT2410,2,"화,목 09:00~10:15",RA406B,False
+수학과,통계학입문,3.0,3.0,임경수,57,False,False,False,False,False,False,all,2,,응용수학I(MAT2410)과 동등한 과목임,2024,1학기,MAT3020,1,"월,수 10:30~11:45",RA406B,False
+물리학과,일반물리I,3.0,3.0,박무인,71,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1001,1,"월,수 10:30~11:45",J102,False
+물리학과,일반물리I,3.0,3.0,Scopel Stefano,73,True,False,False,False,False,False,all,1,,,2024,1학기,PHY1001,2,"월,수 12:00~13:15",K301,False
+물리학과,일반물리I,3.0,3.0,이상헌,79,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1001,3,"월,수 16:30~17:45",RA308,False
+물리학과,일반물리I,3.0,3.0,이기진,70,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1001,4,"화,목 09:00~10:15",K202,False
+물리학과,일반물리I,3.0,3.0,양상모,58,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1001,5,"화,목 10:30~11:45",RA310,False
+물리학과,일반물리I,3.0,3.0,정명화,74,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1001,6,"화,목 12:00~13:15",K403,False
+물리학과,일반물리I,3.0,3.0,백현준,81,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1001,7,"화,목 13:30~14:45",RA204,False
+물리학과,일반물리I,3.0,3.0,이원우,72,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1001,8,"화,목 15:00~16:15",J102,False
+물리학과,일반물리I,3.0,3.0,장준익,41,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1001,9,"수,금 09:00~10:15",RA410,False
+물리학과,일반물리I,3.0,3.0,유효빈,74,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1001,10,"수,금 13:30~14:45",RA308,False
+물리학과,일반물리I,3.0,3.0,김종욱,23,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1001,11,"수,금 15:00~16:15",RA308,False
+물리학과,일반물리실험I,1.0,2.0,정현식,17,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,1,화 10:30~12:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,홍준호,18,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,2,월 13:30~15:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,김원태,19,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,3,월 13:30~15:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,홍준호,17,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,4,월 15:30~17:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,김원태,17,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,5,월 15:30~17:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,양상모,12,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,6,월 17:30~19:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,김원태,14,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,7,월 17:30~19:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,홍준호,16,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,8,화 13:30~15:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,정현식,8,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,9,화 13:30~15:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,홍준호,15,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,10,화 15:30~17:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,김원태,18,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,11,화 15:30~17:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,양상모,15,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,12,화 17:30~19:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,이기진,18,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,13,화 17:30~19:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,장준익,18,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,14,수 10:30~12:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,장준익,16,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,15,수 13:30~15:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,양상모,18,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,16,수 13:30~15:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,Scopel Stefano,16,True,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,17,수 15:30~17:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,양상모,18,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,18,수 15:30~17:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,Scopel Stefano,16,True,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,19,수 17:30~19:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,이현철,14,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,20,수 17:30~19:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,장준익,13,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,21,목 13:30~15:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,이현철,10,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,22,목 13:30~15:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,장준익,17,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,23,목 15:30~17:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,이현철,16,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,24,목 15:30~17:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,장준익,11,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,25,목 17:30~19:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,홍준호,17,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,26,목 17:30~19:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,이현철,18,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,27,금 10:30~12:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,장준익,18,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,28,금 13:30~15:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,이기진,14,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,29,금 13:30~15:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,Scopel Stefano,17,True,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,30,금 15:30~17:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,이기진,15,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,31,금 15:30~17:20,R107,False
+물리학과,일반물리실험I,1.0,2.0,Scopel Stefano,18,True,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,32,금 17:30~19:20,R103,False
+물리학과,일반물리실험I,1.0,2.0,이기진,17,False,False,False,False,False,False,all,1,,,2024,1학기,PHY1101,33,금 17:30~19:20,R107,False
+경제학과,경제학원론I,3.0,3.0,김진원,99,True,False,False,False,False,False,all,1,,,2024,1학기,ECO2001,2,"화,목 12:00~13:15",GN101,False
+경제학과,경제학원론I,3.0,3.0,김홍균,93,False,False,False,False,False,False,all,1,,,2024,1학기,ECO2001,3,"화,목 13:30~14:45",GN201,False
+경제학과,경제학원론I,3.0,3.0,손성빈,96,True,False,False,False,False,False,all,1,,,2024,1학기,ECO2001,4,"화,목 15:00~16:15",GN201,False
+경제학과,경제학원론I,3.0,3.0,안태현,96,True,False,False,False,False,False,all,1,,,2024,1학기,ECO2001,5,"월,수 12:00~13:15",GN201,False
+경제학과,경제학원론I,3.0,3.0,허정,349,False,False,False,False,False,False,all,1,,,2024,1학기,ECO2001,6,,,False
+경제학과,경제학원론I,3.0,3.0,Iris Haydar Doruk,40,True,False,False,False,False,False,all,1,,,2024,1학기,ECO2001,7,"수,금 09:00~10:15",GN102,False
+경제학과,경제학원론II,3.0,3.0,김재호,32,True,False,False,False,False,False,all,1,,,2024,1학기,ECO2002,1,"수,금 09:00~10:15",GN203,False
+경제학과,경제학원론II,3.0,3.0,송의영,99,False,False,False,False,False,False,all,1,,,2024,1학기,ECO2002,2,"화,목 12:00~13:15",GN201,False
+경제학과,경제학원론II,3.0,3.0,김형욱,82,False,False,False,False,False,False,all,1,,,2024,1학기,ECO2002,3,"수,금 13:30~14:45",GN201,False
+경제학과,경제학원론II,3.0,3.0,김숙영,83,False,False,False,False,False,False,all,1,,,2024,1학기,ECO2002,4,월 13:30~16:15,GN201,False
+경제학과,경제수리기초,3.0,3.0,김형욱,85,False,False,False,False,False,False,all,1,,,2024,1학기,ECO2003,1,월 13:30~16:15,GN202,False
+경제학과,경제수리기초,3.0,3.0,박경옥,101,False,False,False,False,False,False,all,1,,,2024,1학기,ECO2003,2,금 10:30~13:15,GN201,False
+경제학과,경제통계학,3.0,3.0,주하연,63,True,False,False,False,False,False,all,1,,,2024,1학기,ECO2004,1,"월,수 12:00~13:15",GN101,False
+경제학과,경제통계학,3.0,3.0,김인경,55,True,False,False,False,False,False,all,1,,,2024,1학기,ECO2004,2,"수,금 09:00~10:15",GN202,False
+경제학과,경제통계학,3.0,3.0,백예인,66,False,False,False,False,False,False,all,1,,,2024,1학기,ECO2004,3,"화,목 10:30~11:45",GN201,False
+생명과학과,일반생물학I,3.0,3.0,"Lee, Hosuk Sean",35,True,False,False,False,False,False,all,1,,,2024,1학기,BIO1101,1,"월,수 10:30~11:45",K404,False
+생명과학과,일반생물학I,3.0,3.0,허진영,37,False,False,False,False,False,False,all,1,,,2024,1학기,BIO1101,2,"월,수 12:00~13:15",K306,False
+생명과학과,일반생물학I,3.0,3.0,주봉건,60,False,False,False,False,False,False,all,1,,,2024,1학기,BIO1101,3,"화,목 10:30~11:45",K307,False
+생명과학과,일반생물학I,3.0,3.0,이규호,35,False,False,False,False,False,False,all,1,,,2024,1학기,BIO1101,4,"화,목 12:00~13:15",K309,False
+생명과학과,일반생물학I,3.0,3.0,김건수,64,False,False,False,False,False,False,all,1,,,2024,1학기,BIO1101,5,"화,목 13:30~14:45",K305,False
+생명과학과,일반생물학실험I,1.0,3.0,"Lee, Hosuk Sean",16,True,False,False,False,False,False,all,1,,,2024,1학기,BIO1105,1,월 13:30~16:15,K213,False
+생명과학과,일반생물학실험I,1.0,3.0,"Lee, Hosuk Sean",12,True,False,False,False,False,False,all,1,,,2024,1학기,BIO1105,2,월 16:30~19:15,K213,False
+생명과학과,일반생물학실험I,1.0,3.0,신형두,15,False,False,False,False,False,False,all,1,,,2024,1학기,BIO1105,3,화 13:30~16:15,K213,False
+생명과학과,일반생물학실험I,1.0,3.0,김정호,15,False,False,False,False,False,False,all,1,,,2024,1학기,BIO1105,4,화 16:30~19:15,K213,False
+생명과학과,일반생물학실험I,1.0,3.0,김성룡,15,False,False,False,False,False,False,all,1,,,2024,1학기,BIO1105,5,수 13:30~16:15,K213,False
+생명과학과,일반생물학실험I,1.0,3.0,서미정,16,False,False,False,False,False,False,all,1,,,2024,1학기,BIO1105,7,목 13:30~16:15,K213,False
+생명과학과,일반생물학실험I,1.0,3.0,정광환,15,False,False,False,False,False,False,all,1,,,2024,1학기,BIO1105,8,목 16:30~19:15,K213,False
+생명과학과,일반생물학실험I,1.0,3.0,주봉건,14,False,False,False,False,False,False,all,1,,,2024,1학기,BIO1105,9,금 13:30~16:15,K213,False
+생명과학과,일반생물학실험I,1.0,3.0,김종찬,5,False,False,False,False,False,False,all,1,,,2024,1학기,BIO1105,10,금 16:30~19:15,K213,False
+경영학부(경영학전공),경영통계학,3.0,3.0,이군희,145,False,False,False,False,False,False,all,1,,"수학,컴공전공자,통계학입문수강자 불가(통계학입문,경제통계학으로대체가능)",2024,1학기,MGT2002,1,,,False
+경영학부(경영학전공),경영통계학,3.0,3.0,이윤동,56,False,False,False,False,False,False,all,1,,"수학,컴공전공자,통계학입문수강자 불가(통계학입문,경제통계학으로대체가능)",2024,1학기,MGT2002,2,"수,금 15:00~16:15",MA106,False
+경영학부(경영학전공),경영통계학,3.0,3.0,김범수,57,True,False,False,False,False,False,all,1,,"수학,컴공전공자,통계학입문수강자 불가(통계학입문,경제통계학으로대체가능)",2024,1학기,MGT2002,3,"월,수 16:30~17:45",MA208,False
+경영학부(경영학전공),회계학원론,3.0,3.0,양준선,45,True,False,True,False,False,False,all,"1,2",,,2024,1학기,MGT2003,1,"월,수 10:30~11:45",MA104,False
+경영학부(경영학전공),회계학원론,3.0,3.0,변상혁,86,True,False,True,False,False,False,all,"1,2",,,2024,1학기,MGT2003,2,"화,목 10:30~11:45",MA208,False
+경영학부(경영학전공),회계학원론,3.0,3.0,박두리,77,True,False,True,False,False,False,all,"1,2",,,2024,1학기,MGT2003,3,"화,목 12:00~13:15",MA106,False
+경영학부(경영학전공),회계학원론,3.0,3.0,강평경,73,True,False,True,False,False,False,all,"1,2",,,2024,1학기,MGT2003,4,"화,목 15:00~16:15",PA201,False
+경영학부(경영학전공),회계학원론,3.0,3.0,김민,93,True,False,True,False,False,False,all,"1,2",,,2024,1학기,MGT2003,5,"수,금 13:30~14:45",MA206,False
+경영학부(경영학전공),회계학원론,3.0,3.0,이다혜,92,False,False,False,False,False,False,all,"1,2",,,2024,1학기,MGT2003,6,금 10:30~13:15,MA102,False
+화학과,일반화학I,3.0,3.0,문봉진,63,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1001,1,"화,목 10:30~11:45",K304,False
+화학과,일반화학I,3.0,3.0,신운섭,70,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1001,2,"화,목 09:00~10:15",RA204,False
+화학과,일반화학I,3.0,3.0,신운섭,77,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1001,3,"화,목 10:30~11:45",RA204,False
+화학과,일반화학I,3.0,3.0,서원석,73,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1001,4,"화,목 13:30~14:45",K401,False
+화학과,일반화학I,3.0,3.0,김창호,74,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1001,5,"월,수 12:00~13:15",K303,False
+화학과,일반화학I,3.0,3.0,유수련,51,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1001,6,"수,금 13:30~14:45",K304,False
+화학과,일반화학실험I,1.0,3.0,박준우,15,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,1,월 13:30~16:15,R112,False
+화학과,일반화학실험I,1.0,3.0,신운섭,15,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,2,월 13:30~16:15,R114,False
+화학과,일반화학실험I,1.0,3.0,동방선,13,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,3,월 16:30~19:15,R112,False
+화학과,일반화학실험I,1.0,3.0,옥강민,15,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,4,월 16:30~19:15,R114,False
+화학과,일반화학실험I,1.0,3.0,김창호,16,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,5,화 13:30~16:15,R112,False
+화학과,일반화학실험I,1.0,3.0,신관우,16,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,6,화 13:30~16:15,R114,False
+화학과,일반화학실험I,1.0,3.0,이원구,16,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,7,화 16:30~19:15,R112,False
+화학과,일반화학실험I,1.0,3.0,서원석,12,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,8,화 16:30~19:15,R114,False
+화학과,일반화학실험I,1.0,3.0,서원석,16,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,9,수 13:30~16:15,R112,False
+화학과,일반화학실험I,1.0,3.0,신관우,16,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,10,수 13:30~16:15,R114,False
+화학과,일반화학실험I,1.0,3.0,문봉진,15,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,11,목 13:30~16:15,R112,False
+화학과,일반화학실험I,1.0,3.0,이덕형,15,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,12,목 13:30~16:15,R114,False
+화학과,일반화학실험I,1.0,3.0,문봉진,14,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,13,목 16:30~19:15,R112,False
+화학과,일반화학실험I,1.0,3.0,이덕형,15,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,14,목 16:30~19:15,R114,False
+화학과,일반화학실험I,1.0,3.0,서원석,16,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,15,금 13:30~16:15,R112,False
+화학과,일반화학실험I,1.0,3.0,옥강민,14,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,16,금 13:30~16:15,R114,False
+화학과,일반화학실험I,1.0,3.0,이원구,15,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,17,금 16:30~19:15,R112,False
+화학과,일반화학실험I,1.0,3.0,유수련,12,False,False,False,False,False,False,all,1,,,2024,1학기,CHM1051,18,금 16:30~19:15,R114,False
+전자공학과,고급공학수학I,3.0,3.0,박형민,64,False,False,False,False,False,False,all,2,,구 전자응용해석I,2024,1학기,EEE2103,1,"화,목 13:30~14:45",AS301,False
+전자공학과,고급공학수학I,3.0,3.0,한준규,65,False,False,False,False,False,False,all,2,,구 전자응용해석I,2024,1학기,EEE2103,2,"화,목 12:00~13:15",AS303,False
+화공생명공학과,화공수학I,3.0,3.0,최진훈,74,True,False,False,False,False,False,all,"1,4",,화공생명공학전공 학생만 수강 가능,2024,1학기,CBE2011,1,"화,목 12:00~13:15",K304,False
+화공생명공학과,화공수학I,3.0,3.0,이종석,55,True,False,False,False,False,False,all,"1,4",,화공생명공학전공 학생만 수강 가능,2024,1학기,CBE2011,2,"수,금 15:00~16:15",K402,False
+화공생명공학과,화공기초화학Ⅰ,3.0,3.0,박제영,58,True,False,False,False,False,False,all,1,,구)공업화학Ⅰ,2024,1학기,CBE2014,1,"화,목 09:00~10:15",K405,False
+화공생명공학과,화공기초화학Ⅰ,3.0,3.0,김충익,57,True,False,False,False,False,False,all,1,,구)공업화학Ⅰ,2024,1학기,CBE2014,2,"수,금 09:00~10:15",K502,False
+사회학과,사회학개론,3.0,3.0,김영수,12,False,False,False,False,False,False,all,"1,4",,,2024,1학기,SOC2001,1,"수,금 15:00~16:15",D406,False
+사회학과,사회학개론,3.0,3.0,김우선,65,False,False,False,False,False,False,all,"1,4",,,2024,1학기,SOC2001,2,"화,목 10:30~11:45",D301,False
+기계공학과,C프로그래밍기초,3.0,3.0,정석환,50,False,False,False,False,False,False,"2,3,4",2,,,2024,1학기,MEE1005,1,"화,목 13:30~14:45",AS412,False
+기계공학과,공학수학I,3.0,3.0,강성민,44,True,False,False,False,False,False,"2,3,4",2,,기계공학 전공자(복수전공자 포함)만 수강 가능,2024,1학기,MEE2006,1,"화,목 16:30~17:45",AS414,False
+기계공학과,공학수학I,3.0,3.0,김상엽,48,True,False,False,False,False,False,"2,3,4",2,,기계공학 전공자(복수전공자 포함)만 수강 가능,2024,1학기,MEE2006,2,"수,금 13:30~14:45",AS303,False
+기계공학과,기계공학해석,3.0,3.0,박정열,71,True,False,False,False,False,False,"3,4",3,,,2024,1학기,MEE3006,1,"화,목 15:00~16:15",AS303,False
+전인교육원,인문세미나,3.0,3.0,정일영,83,False,False,False,False,False,False,all,"1,4",,구)현대인문세미나,2024,1학기,HSS3013,1,"화,목 15:00~16:15",K401,False
+전인교육원,인문세미나,3.0,3.0,류희성,79,False,False,False,False,False,False,all,"1,4",,구)현대인문세미나,2024,1학기,HSS3013,2,"화,목 10:30~11:45",K301,False
+전인교육원,인문세미나,3.0,3.0,박상기,29,False,False,False,False,False,False,all,"1,4",,구)현대인문세미나,2024,1학기,HSS3013,3,"화,목 15:00~16:15",K304,False
+전인교육원,인문세미나,3.0,3.0,이소영,47,False,False,False,False,False,False,all,"1,4",,구)현대인문세미나,2024,1학기,HSS3013,4,금 10:30~13:15,K303,False
+전인교육원,한국어 의사소통Ⅱ,3.0,3.0,이정화,18,False,False,False,False,False,False,all,"1,4",,구) KSC3002,2024,1학기,KLC1002,1,"화,목 13:30~14:45",J108,False
+전인교육원,독일언어와문화II,3.0,3.0,허정화,18,False,False,False,False,False,False,all,"1,2",,독일문화기행(LCU4057)의 대체과목으로 독문전공과목은 아님.,2024,1학기,LCS2002,1,"화,목 13:30~14:45",X430,False
+전인교육원,프랑스언어와문화II,3.0,3.0,전재연,28,False,False,False,False,False,False,all,1,,전분반초급자전용/프랑스문화기행(LCU4048)의 대체과목,2024,1학기,LCS2004,1,"월,수 12:00~13:15",K504,False
+전인교육원,중국언어와문화II,3.0,3.0,이슬기,25,False,False,False,False,False,False,all,1,,"원어민,특기자 수강불가/중국고대문학산책(LCU4051)의 대체과목/오늘의중국(LCU4049)의 대체과목",2024,1학기,LCS2006,1,"수,금 15:00~16:15",J209,False
+전인교육원,일본언어와문화II,3.0,3.0,최은희,27,False,False,False,False,False,False,all,"1,4",,초급일본어II(LCU4054)의 대체과목,2024,1학기,LCS2008,1,"화,목 16:30~17:45",K404,False
+전인교육원,대학수학,3.0,3.0,김지현,63,False,False,False,False,False,False,all,1,,"자연과학대학,공과대학 1전공자 수강불가",2024,1학기,STS2004,1,"화,목 13:30~14:45",K201,False
+전인교육원,대학수학,3.0,3.0,안소영,22,False,False,False,False,False,False,all,1,,"자연과학대학,공과대학 1전공자 수강불가",2024,1학기,STS2004,2,"화,목 09:00~10:15",K208,False
+전인교육원,대학수학,3.0,3.0,김현정,55,False,False,False,False,False,False,all,1,,"자연과학대학,공과대학 1전공자 수강불가",2024,1학기,STS2004,3,"수,금 15:00~16:15",K202,False
+전인교육원,대학수학,3.0,3.0,한상현,67,False,False,False,False,False,False,all,1,,"자연과학대학,공과대학 1전공자 수강불가",2024,1학기,STS2004,4,"월,수 10:30~11:45",K402,False
+전인교육원,대학수학,3.0,3.0,김지현,62,False,False,False,False,False,False,all,1,,"자연과학대학,공과대학 1전공자 수강불가",2024,1학기,STS2004,5,"화,목 16:30~17:45",K201,False
+전인교육원,대학수학,3.0,3.0,안일주,59,False,False,False,False,False,False,all,1,,"자연과학대학,공과대학 1전공자 수강불가",2024,1학기,STS2004,6,"화,목 15:00~16:15",K402,False
+전인교육원,대학수학,3.0,3.0,김순영,59,False,False,False,False,False,False,all,1,,"자연과학대학,공과대학 1전공자 수강불가",2024,1학기,STS2004,7,"수,금 13:30~14:45",K502,False
+전인교육원,대학수학,3.0,3.0,유지현,64,False,False,False,False,False,False,all,1,,"자연과학대학,공과대학 1전공자 수강불가",2024,1학기,STS2004,8,"월,수 12:00~13:15",K305,False
+전인교육원,대학수학,3.0,3.0,김순영,24,False,False,False,False,False,False,all,1,,"자연과학대학,공과대학 1전공자 수강불가",2024,1학기,STS2004,9,"월,수 16:30~17:45",K208,False
+전인교육원,미적분학II,3.0,3.0,유지현,60,False,False,False,False,False,False,all,1,,,2024,1학기,STS2006,1,"수,금 13:30~14:45",K305,False
+전인교육원,영어글로벌의사소통II,3.0,3.0,이현숙,24,True,False,False,False,False,False,all,1,,영어II(고급)(COR1006)의 대체과목/영어II(COR1004)의 대체과목,2024,1학기,TLS1004,1,"월,수 10:30~11:45",K309,False
+전인교육원,영어글로벌의사소통II,3.0,3.0,이현숙,23,True,False,False,False,False,False,all,1,,영어II(고급)(COR1006)의 대체과목/영어II(COR1004)의 대체과목,2024,1학기,TLS1004,2,"월,수 12:00~13:15",K309,False
+전인교육원,영어글로벌의사소통II,3.0,3.0,"Kim, Jae Pil",26,True,False,False,False,False,False,all,1,,영어II(고급)(COR1006)의 대체과목/영어II(COR1004)의 대체과목,2024,1학기,TLS1004,3,"화,목 13:30~14:45",J309,False
+전인교육원,영어글로벌의사소통II,3.0,3.0,정지수,24,True,False,False,False,False,False,all,1,,영어II(고급)(COR1006)의 대체과목/영어II(COR1004)의 대체과목,2024,1학기,TLS1004,4,"화,목 15:00~16:15",K307,False
+전인교육원,영어글로벌의사소통II,3.0,3.0,"Kim, Jae Pil",28,True,False,False,False,False,False,all,1,,영어II(고급)(COR1006)의 대체과목/영어II(COR1004)의 대체과목,2024,1학기,TLS1004,5,"수,금 13:30~14:45",J309,False
+융합소프트웨어연계전공,기초C언어,3.0,3.0,강호석,46,False,False,False,False,False,False,all,"2,4",,"전자공학, 컴퓨터공학전공자 수강 불가",2024,1학기,CSW2010,1,"월,수 12:00~13:15",D105,False
+융합소프트웨어연계전공,기초C언어,3.0,3.0,강호석,49,False,False,False,False,False,False,all,"2,4",,"전자공학, 컴퓨터공학전공자 수강 불가",2024,1학기,CSW2010,2,"수,금 13:30~14:45",D104B,False
+미디어&엔터테인먼트학과,커뮤니케이션학입문,3.0,3.0,"ZHOU, NAN",42,True,False,False,False,False,False,all,"1,2",,구) COM2001 / 커뮤 전공필수,2024,1학기,MAE3014,1,"월,수 10:30~11:45",GA401,False
