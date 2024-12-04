@@ -34,7 +34,7 @@ LangGraph
 ├── requirements.txt        # Project dependencies
 ├── sample.py               # sample code
 ├── test_results.txt        # test result file
-└── README.md                # Project documentation
+└── README.md               # Project documentation
 ```
 
 ---
